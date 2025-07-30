@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "media_players",
+  "info": {
+    "singularName": "media-player",
+    "pluralName": "media-players",
+    "displayName": "Media Player"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "media_items": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::media-item.media-item",
+      "mappedBy": "media_player"
+    },
+    "blog_posts": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::blog-post.blog-post",
+      "inversedBy": "media_players"
+    }
+  }
+}

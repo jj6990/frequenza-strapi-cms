@@ -1,0 +1,37 @@
+{
+  "kind": "collectionType",
+  "collectionName": "media_items",
+  "info": {
+    "singularName": "media-item",
+    "pluralName": "media-items",
+    "displayName": "Media Item"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "key": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "soundcloud",
+        "youtube"
+      ]
+    },
+    "media_player": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::media-player.media-player",
+      "inversedBy": "media_items"
+    }
+  }
+}
