@@ -448,6 +448,45 @@ export interface ApiCategoryCategory extends Struct.CollectionTypeSchema {
   };
 }
 
+export interface ApiHomeHeroHomeHero extends Struct.SingleTypeSchema {
+  collectionName: 'home_heroes';
+  info: {
+    displayName: 'Home Hero';
+    pluralName: 'home-heroes';
+    singularName: 'home-hero';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    automaticPlayer: Schema.Attribute.Boolean;
+    copy: Schema.Attribute.Blocks;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::home-hero.home-hero'
+    > &
+      Schema.Attribute.Private;
+    media_player: Schema.Attribute.Relation<
+      'oneToOne',
+      'api::media-player.media-player'
+    >;
+    publishedAt: Schema.Attribute.DateTime;
+    sliderImages: Schema.Attribute.Media<
+      'images' | 'files' | 'videos' | 'audios',
+      true
+    > &
+      Schema.Attribute.Required;
+    title: Schema.Attribute.String & Schema.Attribute.Required;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiMediaItemMediaItem extends Struct.CollectionTypeSchema {
   collectionName: 'media_items';
   info: {
@@ -494,6 +533,7 @@ export interface ApiMediaPlayerMediaPlayer extends Struct.CollectionTypeSchema {
     draftAndPublish: true;
   };
   attributes: {
+    autoplay: Schema.Attribute.Boolean;
     blog_posts: Schema.Attribute.Relation<
       'manyToMany',
       'api::blog-post.blog-post'
@@ -501,6 +541,7 @@ export interface ApiMediaPlayerMediaPlayer extends Struct.CollectionTypeSchema {
     createdAt: Schema.Attribute.DateTime;
     createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
+    isExpanded: Schema.Attribute.Boolean;
     locale: Schema.Attribute.String & Schema.Attribute.Private;
     localizations: Schema.Attribute.Relation<
       'oneToMany',
@@ -1030,6 +1071,7 @@ declare module '@strapi/strapi' {
       'admin::user': AdminUser;
       'api::blog-post.blog-post': ApiBlogPostBlogPost;
       'api::category.category': ApiCategoryCategory;
+      'api::home-hero.home-hero': ApiHomeHeroHomeHero;
       'api::media-item.media-item': ApiMediaItemMediaItem;
       'api::media-player.media-player': ApiMediaPlayerMediaPlayer;
       'plugin::content-releases.release': PluginContentReleasesRelease;
