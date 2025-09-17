@@ -20,8 +20,8 @@
     "location": {
       "type": "string"
     },
-    "date": {
-      "type": "datetime"
+    "startTime": {
+      "type": "time"
     },
     "price": {
       "type": "decimal"
@@ -52,6 +52,9 @@
         "videos",
         "audios"
       ]
+    },
+    "date": {
+      "type": "date"
     }
   }
 }
