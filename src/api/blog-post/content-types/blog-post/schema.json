@@ -18,9 +18,6 @@
       "type": "uid",
       "targetField": "title"
     },
-    "content": {
-      "type": "blocks"
-    },
     "excerpt": {
       "type": "string"
     },
@@ -39,15 +36,6 @@
       "relation": "manyToOne",
       "target": "api::category.category",
       "inversedBy": "blog_posts"
-    },
-    "publishAt": {
-      "type": "datetime"
-    },
-    "media_players": {
-      "type": "relation",
-      "relation": "manyToMany",
-      "target": "api::media-player.media-player",
-      "mappedBy": "blog_posts"
     },
     "description": {
       "type": "customField",

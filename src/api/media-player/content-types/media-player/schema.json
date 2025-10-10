@@ -25,12 +25,6 @@
       "relation": "oneToMany",
       "target": "api::media-item.media-item",
       "mappedBy": "media_player"
-    },
-    "blog_posts": {
-      "type": "relation",
-      "relation": "manyToMany",
-      "target": "api::blog-post.blog-post",
-      "inversedBy": "media_players"
     }
   }
 }

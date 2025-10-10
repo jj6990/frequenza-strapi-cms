@@ -385,7 +385,6 @@ export interface ApiBlogPostBlogPost extends Struct.CollectionTypeSchema {
   };
   attributes: {
     category: Schema.Attribute.Relation<'manyToOne', 'api::category.category'>;
-    content: Schema.Attribute.Blocks;
     createdAt: Schema.Attribute.DateTime;
     createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
@@ -406,11 +405,6 @@ export interface ApiBlogPostBlogPost extends Struct.CollectionTypeSchema {
       'api::blog-post.blog-post'
     > &
       Schema.Attribute.Private;
-    media_players: Schema.Attribute.Relation<
-      'manyToMany',
-      'api::media-player.media-player'
-    >;
-    publishAt: Schema.Attribute.DateTime;
     publishedAt: Schema.Attribute.DateTime;
     slug: Schema.Attribute.UID<'title'>;
     title: Schema.Attribute.String;
@@ -580,10 +574,6 @@ export interface ApiMediaPlayerMediaPlayer extends Struct.CollectionTypeSchema {
   };
   attributes: {
     autoplay: Schema.Attribute.Boolean;
-    blog_posts: Schema.Attribute.Relation<
-      'manyToMany',
-      'api::blog-post.blog-post'
-    >;
     createdAt: Schema.Attribute.DateTime;
     createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
