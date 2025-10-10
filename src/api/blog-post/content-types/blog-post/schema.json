@@ -48,6 +48,13 @@
       "relation": "manyToMany",
       "target": "api::media-player.media-player",
       "mappedBy": "blog_posts"
+    },
+    "description": {
+      "type": "customField",
+      "customField": "plugin::ckeditor5.CKEditor",
+      "options": {
+        "preset": "defaultHtml"
+      }
     }
   }
 }
