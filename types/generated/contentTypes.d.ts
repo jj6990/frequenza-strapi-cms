@@ -465,6 +465,15 @@ export interface ApiEventEvent extends Struct.CollectionTypeSchema {
       Schema.Attribute.Private;
     date: Schema.Attribute.Date;
     description: Schema.Attribute.Blocks;
+    enablePriceTiers: Schema.Attribute.Boolean &
+      Schema.Attribute.DefaultTo<false>;
+    eventDescription: Schema.Attribute.RichText &
+      Schema.Attribute.CustomField<
+        'plugin::ckeditor5.CKEditor',
+        {
+          preset: 'defaultHtml';
+        }
+      >;
     eventImage: Schema.Attribute.Media<
       'images' | 'files' | 'videos' | 'audios'
     >;
@@ -478,6 +487,7 @@ export interface ApiEventEvent extends Struct.CollectionTypeSchema {
       Schema.Attribute.Private;
     location: Schema.Attribute.String;
     price: Schema.Attribute.Decimal;
+    priceTiers: Schema.Attribute.Component<'event.price-tier', true>;
     publishedAt: Schema.Attribute.DateTime;
     slug: Schema.Attribute.UID<'title'>;
     startTime: Schema.Attribute.Time;

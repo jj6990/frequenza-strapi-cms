@@ -1,0 +1,22 @@
+{
+	"collectionName": "components_event_price_tiers",
+	"info": {
+		"displayName": "Price Tier",
+		"icon": "dollar-sign",
+		"description": "Precio por entrada a partir de una cantidad mínima"
+	},
+	"options": {},
+	"attributes": {
+		"minQuantity": {
+			"type": "integer",
+			"required": true,
+			"min": 1,
+			"description": "Cantidad mínima de entradas para que aplique este tramo"
+		},
+		"pricePerTicket": {
+			"type": "decimal",
+			"required": true,
+			"description": "Precio por entrada en este tramo"
+		}
+	}
+}
