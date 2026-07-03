@@ -1,5 +1,7 @@
 'use strict';
-const bootstrap = require("./bootstrap");
+const seedBootstrap = require('./bootstrap');
+const configureMediaItemAdmin = require('./configure-media-item-admin');
+const backfillMediaItemKeys = require('./backfill-media-item-keys');
 
 module.exports = {
   /**
@@ -17,5 +19,9 @@ module.exports = {
    * This gives you an opportunity to set up your data model,
    * run jobs, or perform some special logic.
    */
-  bootstrap,
+  async bootstrap({ strapi }) {
+    await configureMediaItemAdmin(strapi);
+    await backfillMediaItemKeys(strapi);
+    await seedBootstrap();
+  },
 };

@@ -9,58 +9,30 @@
   "options": {
     "draftAndPublish": true
   },
-  "pluginOptions": {
-    "i18n": {
-      "localized": true
-    }
-  },
   "attributes": {
-    "key": {
-      "type": "string",
-      "pluginOptions": {
-        "i18n": {
-          "localized": false
-        }
-      }
-    },
     "url": {
       "type": "string",
-      "pluginOptions": {
-        "i18n": {
-          "localized": false
-        }
-      }
+      "required": true
+    },
+    "key": {
+      "type": "string",
+      "unique": true,
+      "configurable": false
     },
     "title": {
       "type": "string",
-      "pluginOptions": {
-        "i18n": {
-          "localized": true
-        }
-      }
+      "configurable": false
     },
     "type": {
       "type": "enumeration",
-      "enum": [
-        "soundcloud",
-        "youtube"
-      ],
-      "pluginOptions": {
-        "i18n": {
-          "localized": false
-        }
-      }
+      "enum": ["soundcloud", "youtube"],
+      "configurable": false
     },
     "media_player": {
       "type": "relation",
       "relation": "manyToOne",
       "target": "api::media-player.media-player",
-      "inversedBy": "media_items",
-      "pluginOptions": {
-        "i18n": {
-          "localized": false
-        }
-      }
+      "inversedBy": "media_items"
     }
   }
 }

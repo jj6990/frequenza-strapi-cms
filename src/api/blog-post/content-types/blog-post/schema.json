@@ -77,6 +77,16 @@
           "localized": true
         }
       }
+    },
+    "media_player": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::media-player.media-player",
+      "pluginOptions": {
+        "i18n": {
+          "localized": false
+        }
+      }
     }
   }
 }
