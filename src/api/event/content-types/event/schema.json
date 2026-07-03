@@ -9,58 +9,127 @@
 	"options": {
 		"draftAndPublish": true
 	},
-	"pluginOptions": {},
+	"pluginOptions": {
+		"i18n": {
+			"localized": true
+		}
+	},
 	"attributes": {
 		"title": {
-			"type": "string"
+			"type": "string",
+			"pluginOptions": {
+				"i18n": {
+					"localized": true
+				}
+			}
 		},
 		"eventDescription": {
 			"type": "customField",
 			"customField": "plugin::ckeditor5.CKEditor",
 			"options": {
 				"preset": "defaultHtml"
+			},
+			"pluginOptions": {
+				"i18n": {
+					"localized": true
+				}
 			}
 		},
 		"description": {
-			"type": "blocks"
+			"type": "blocks",
+			"pluginOptions": {
+				"i18n": {
+					"localized": true
+				}
+			}
 		},
 		"location": {
-			"type": "string"
+			"type": "string",
+			"pluginOptions": {
+				"i18n": {
+					"localized": true
+				}
+			}
 		},
 		"startTime": {
-			"type": "time"
+			"type": "time",
+			"pluginOptions": {
+				"i18n": {
+					"localized": false
+				}
+			}
 		},
 		"price": {
-			"type": "decimal"
+			"type": "decimal",
+			"pluginOptions": {
+				"i18n": {
+					"localized": false
+				}
+			}
 		},
 		"slug": {
 			"type": "uid",
-			"targetField": "title"
+			"targetField": "title",
+			"pluginOptions": {
+				"i18n": {
+					"localized": true
+				}
+			}
 		},
 		"isActive": {
-			"type": "boolean"
+			"type": "boolean",
+			"pluginOptions": {
+				"i18n": {
+					"localized": false
+				}
+			}
 		},
 		"eventImage": {
 			"type": "media",
 			"multiple": false,
-			"allowedTypes": ["images", "files", "videos", "audios"]
+			"allowedTypes": ["images", "files", "videos", "audios"],
+			"pluginOptions": {
+				"i18n": {
+					"localized": false
+				}
+			}
 		},
 		"eventsPhotos": {
 			"type": "media",
 			"multiple": true,
-			"allowedTypes": ["images", "files", "videos", "audios"]
+			"allowedTypes": ["images", "files", "videos", "audios"],
+			"pluginOptions": {
+				"i18n": {
+					"localized": false
+				}
+			}
 		},
 		"date": {
-			"type": "date"
+			"type": "date",
+			"pluginOptions": {
+				"i18n": {
+					"localized": false
+				}
+			}
 		},
 		"priceTiers": {
 			"type": "component",
 			"repeatable": true,
-			"component": "event.price-tier"
+			"component": "event.price-tier",
+			"pluginOptions": {
+				"i18n": {
+					"localized": false
+				}
+			}
 		},
 		"enablePriceTiers": {
 			"type": "boolean",
-			"default": false
+			"default": false,
+			"pluginOptions": {
+				"i18n": {
+					"localized": false
+				}
+			}
 		}
 	}
 }

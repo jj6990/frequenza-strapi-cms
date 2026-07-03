@@ -8,6 +8,11 @@
     "deploy": "strapi deploy",
     "dev": "strapi develop",
     "seed:example": "node ./scripts/seed.js",
+    "i18n:export": "node ./scripts/i18n/export-content.js",
+    "i18n:validate": "node ./scripts/i18n/build-en-seed.js --check",
+    "i18n:scaffold-en": "node ./scripts/i18n/build-en-seed.js --scaffold",
+    "i18n:seed": "node ./scripts/i18n/seed-localizations.js",
+    "i18n:pipeline": "node ./scripts/i18n/export-content.js && node ./scripts/i18n/build-en-seed.js && node ./scripts/i18n/seed-localizations.js",
     "start": "strapi start",
     "strapi": "strapi"
   },

@@ -1,0 +1,851 @@
+{
+  "exportedAt": "2026-07-03T00:06:39.234Z",
+  "sourceLocale": "en",
+  "contentTypes": {
+    "category": [
+      {
+        "documentId": "qil618v8kinsvfo65ho820qw",
+        "locale": "en",
+        "publishedAt": "2025-07-30T19:23:24.194Z",
+        "fields": {
+          "name": "Events",
+          "slug": "events"
+        }
+      },
+      {
+        "documentId": "d6kbc31ha6x8nm7efgchf66s",
+        "locale": "en",
+        "publishedAt": "2025-07-30T19:23:24.362Z",
+        "fields": {
+          "name": "Videos",
+          "slug": "videos"
+        }
+      },
+      {
+        "documentId": "uld4pdpnp251vzpym23xxpuf",
+        "locale": "en",
+        "publishedAt": "2025-07-30T19:23:24.512Z",
+        "fields": {
+          "name": "Artists",
+          "slug": "artists"
+        }
+      },
+      {
+        "documentId": "mz1pw6fcqqapvo2bf2l6j4ye",
+        "locale": "en",
+        "publishedAt": "2025-07-30T19:23:24.673Z",
+        "fields": {
+          "name": "Releases",
+          "slug": "releases"
+        }
+      },
+      {
+        "documentId": "tdw33ewt6erpssdp9k4nesxq",
+        "locale": "en",
+        "publishedAt": "2025-07-31T01:05:51.869Z",
+        "fields": {
+          "name": "Podcasts",
+          "slug": "podcasts"
+        }
+      },
+      {
+        "documentId": "l56scrtmrzp1vx6d0g5vx6lo",
+        "locale": "en",
+        "publishedAt": "2025-07-31T01:06:29.745Z",
+        "fields": {
+          "name": "Music Pics",
+          "slug": "music-pics"
+        }
+      },
+      {
+        "documentId": "n0bskfzstg1tkhsk3spcmihc",
+        "locale": "en",
+        "publishedAt": "2026-07-02T22:55:41.268Z",
+        "fields": {
+          "name": "news",
+          "slug": "news"
+        }
+      },
+      {
+        "documentId": "mr8dxzr1ddaa7hhd79oaxgcc",
+        "locale": "en",
+        "publishedAt": "2026-07-02T22:55:41.272Z",
+        "fields": {
+          "name": "tech",
+          "slug": "tech"
+        }
+      },
+      {
+        "documentId": "abtcm0iz9lbjutjbgcxs055e",
+        "locale": "en",
+        "publishedAt": "2026-07-02T22:55:41.274Z",
+        "fields": {
+          "name": "food",
+          "slug": "food"
+        }
+      },
+      {
+        "documentId": "b5m00y9o0my5x2015ute111g",
+        "locale": "en",
+        "publishedAt": "2026-07-02T22:55:41.276Z",
+        "fields": {
+          "name": "nature",
+          "slug": "nature"
+        }
+      },
+      {
+        "documentId": "pywrfocxg2y6lsnqkm5eekcq",
+        "locale": "en",
+        "publishedAt": "2026-07-02T22:55:41.278Z",
+        "fields": {
+          "name": "story",
+          "slug": "story"
+        }
+      }
+    ],
+    "event": [
+      {
+        "documentId": "z5k8ura34jeh0yreqqej2sqb",
+        "locale": "en",
+        "publishedAt": "2025-09-19T14:25:10.292Z",
+        "fields": {
+          "title": "Frequenza & Bassick pres.Traumer, Tommy Pickles (UK)",
+          "slug": "frequenza-bassick-pres-traumer-tommy-pickles-uk",
+          "description": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "❌¡Prepárate para una noche inolvidable con Tommy Pickles! ❌",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Únete a nosotros el 28 de marzo para un evento electrizante con Tommy Pickles, DJ y productor originario de Essex, Reino Unido. Con raíces profundas en la escena grime y garage de los años 2000, Tommy ha evolucionado su sonido hacia una rica mezcla de house, techno y electro. Su extensa biblioteca musical, recopilada de todos los rincones del mundo, promete una noche llena de ritmos únicos y una energía incomparable.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Con apariciones en plataformas underground como Spaced, Cartulis y Outsiders, Tommy se ha ganado la reputación de ofrecer sets inolvidables que transportan al público. Como DJ residente de las famosas fiestas de Opia Records en Londres, y con presentaciones en ciudades como París, Nápoles y Tallin, la pasión y técnica de Tommy dejan a las pistas de baile completamente impactadas.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "✨ ¿Qué puedes esperar?",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Sonido e iluminación de primer nivel para crear una atmósfera inmersiva.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Un lugar íntimo pero vibrante, perfecto para bailar toda la noche.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "¡La oportunidad de disfrutar en vivo del genio musical de Tommy Pickles!",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "¡No te pierdas la oportunidad de vivir la primera presentación de Tommy Pickles en Quito! Asegura tus entradas ahora y sé parte de un viaje musical inolvidable.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "¡Creemos recuerdos en la pista de baile! 💃🕺",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "location": "TBA"
+        }
+      },
+      {
+        "documentId": "l5uvkw4j79ndv9wzdayka3uz",
+        "locale": "en",
+        "publishedAt": "2025-12-19T17:41:53.923Z",
+        "fields": {
+          "title": "🎃👻 CYBER DISCO ZOMBIE👻🎃",
+          "slug": "cyber-disco-zombie",
+          "description": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Llega la noche más oscura del año, con lo mejor del talento local que resucitaran hasta a los muertos. Prepárate para un viaje sonoro entre luces, humo y criaturas de la noche.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "🗓 Fecha: Viernes 24 de Octubre a las 9pm",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "📍 Lugar: Buenaventura",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "🎧 Line-up:",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Juan Proeliis b2b Ozen",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "@juanproeliis - @ozen66",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Julián Álvarez B2B Quims",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "@julianalvarezc - @quimsmusic",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Nicolás Alrod B2B Martín Naranjo",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "@nicolas_alrod - @mart_innp94",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "✨ Premio al mejor disfraz",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "🧛‍♂️ Bebidas especiales de Halloween",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Early birds : $ 10",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Pre ventas: $15",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Puerta: $ 20",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "⚠️ Cupo limitado — Entradas ya a la venta por meet2",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "go, sin disfraz no ingresas",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Organizan, colaboran y difunden:",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Frequenza - @frequenzamusicec",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Flash! - @flash_uio",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Rawbeats - @rawbeatstagram",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Buenaventura - @buenaventura.tv",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "location": "Buenaventura - Quito, Ecuador"
+        }
+      },
+      {
+        "documentId": "zw3nb1pidj02iwsew58wt02g",
+        "locale": "en",
+        "publishedAt": "2026-04-24T15:27:02.348Z",
+        "fields": {
+          "title": "Frequenza pres. Tommy Pickles",
+          "slug": "frequenza-pres-tommy-pickles",
+          "eventDescription": "<p><span style=\"background-color:rgb(33,35,40);color:rgb(248,249,249);font-family:-apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;font-size:14px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Este 14 de marzo abrimos un portal sonoro en un espacio secreto donde el tiempo pierde sentido y la música toma el control.</span></span><br><br><span style=\"background-color:rgb(33,35,40);color:rgb(248,249,249);font-family:-apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;font-size:14px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Directamente desde la escena underground internacional, Tommy Pickles (UK) regresa. Un artista que ha construido su identidad a través de sets hipnóticos, groove envolvente y una conexión cruda con la pista.</span></span><br><br><span style=\"background-color:rgb(33,35,40);color:rgb(248,249,249);font-family:-apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;font-size:14px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Acompañado por un line up local cuidadosamente seleccionado que dará forma al viaje sonoro de la noche:</span></span><br><br><span style=\"background-color:rgb(33,35,40);color:rgb(248,249,249);font-family:-apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;font-size:14px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Tommy Pickles (UK)</span></span><br><span style=\"background-color:rgb(33,35,40);color:rgb(248,249,249);font-family:-apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;font-size:14px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Ozen</span></span><br><span style=\"background-color:rgb(33,35,40);color:rgb(248,249,249);font-family:-apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;font-size:14px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Alex</span></span><br><span style=\"background-color:rgb(33,35,40);color:rgb(248,249,249);font-family:-apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;font-size:14px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Martin Naranjo</span></span><br><br><span style=\"background-color:rgb(33,35,40);color:rgb(248,249,249);font-family:-apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;font-size:14px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Prepárate para una noche donde lo inesperado es parte del ritual.</span></span><br><br><span style=\"background-color:rgb(33,35,40);color:rgb(248,249,249);font-family:-apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;font-size:14px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Ubicación secreta — revelada solo a asistentes</span></span><br><span style=\"background-color:rgb(33,35,40);color:rgb(248,249,249);font-family:-apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;font-size:14px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Experiencia rave + afterparty</span></span><br><span style=\"background-color:rgb(33,35,40);color:rgb(248,249,249);font-family:-apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;font-size:14px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Capacidad limitada</span></span><br><br><span style=\"background-color:rgb(33,35,40);color:rgb(248,249,249);font-family:-apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;font-size:14px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Early Bird: $12</span></span><br><span style=\"background-color:rgb(33,35,40);color:rgb(248,249,249);font-family:-apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;font-size:14px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Door: $20</span></span><br><br><span style=\"background-color:rgb(33,35,40);color:rgb(248,249,249);font-family:-apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;font-size:14px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Sábado 14 de Marzo 2026</span></span><br><span style=\"background-color:rgb(33,35,40);color:rgb(248,249,249);font-family:-apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;font-size:14px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">9PM till late</span></span><br><span style=\"background-color:rgb(33,35,40);color:rgb(248,249,249);font-family:-apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;font-size:14px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Tumbaco — Quito, Ecuador</span></span><br><br><a class=\"x1i10hfl xjbqb8w x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xt0psk2 x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz _aa9_ _a6hd\" style=\"-webkit-tap-highlight-color:transparent;-webkit-text-stroke-width:0px;background-color:rgb(33, 35, 40);border-bottom-style:none;border-bottom-width:0px;border-inline-style:none;border-inline-width:0px;border-top-style:none;border-top-width:0px;box-sizing:border-box;color:rgb(112, 141, 255);cursor:pointer;display:inline;font-family:-apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;list-style-type:none;margin-bottom:0px;margin-inline:0px;margin-top:0px;orphans:2;outline:none;overflow-wrap:break-word;padding-bottom:0px;padding-inline:0px;padding-top:0px;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;touch-action:manipulation;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.instagram.com/explore/tags/frequenza/\" role=\"link\" tabindex=\"0\">#Frequenza</a><span style=\"background-color:rgb(33,35,40);color:rgb(248,249,249);font-family:-apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;font-size:14px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"> </span></span><a class=\"x1i10hfl xjbqb8w x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xt0psk2 x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz _aa9_ _a6hd\" style=\"-webkit-tap-highlight-color:transparent;-webkit-text-stroke-width:0px;background-color:rgb(33, 35, 40);border-bottom-style:none;border-bottom-width:0px;border-inline-style:none;border-inline-width:0px;border-top-style:none;border-top-width:0px;box-sizing:border-box;color:rgb(112, 141, 255);cursor:pointer;display:inline;font-family:-apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;list-style-type:none;margin-bottom:0px;margin-inline:0px;margin-top:0px;orphans:2;outline:none;overflow-wrap:break-word;padding-bottom:0px;padding-inline:0px;padding-top:0px;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;touch-action:manipulation;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.instagram.com/explore/tags/undergroundquito/\" role=\"link\" tabindex=\"0\">#UndergroundQuito</a><span style=\"background-color:rgb(33,35,40);color:rgb(248,249,249);font-family:-apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;font-size:14px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"> </span></span><a class=\"x1i10hfl xjbqb8w x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xt0psk2 x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz _aa9_ _a6hd\" style=\"-webkit-tap-highlight-color:transparent;-webkit-text-stroke-width:0px;background-color:rgb(33, 35, 40);border-bottom-style:none;border-bottom-width:0px;border-inline-style:none;border-inline-width:0px;border-top-style:none;border-top-width:0px;box-sizing:border-box;color:rgb(112, 141, 255);cursor:pointer;display:inline;font-family:-apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;list-style-type:none;margin-bottom:0px;margin-inline:0px;margin-top:0px;orphans:2;outline:none;overflow-wrap:break-word;padding-bottom:0px;padding-inline:0px;padding-top:0px;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;touch-action:manipulation;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.instagram.com/explore/tags/electronicmusic/\" role=\"link\" tabindex=\"0\">#ElectronicMusic</a><span style=\"background-color:rgb(33,35,40);color:rgb(248,249,249);font-family:-apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;font-size:14px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"> </span></span><a class=\"x1i10hfl xjbqb8w x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xt0psk2 x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz _aa9_ _a6hd\" style=\"-webkit-tap-highlight-color:transparent;-webkit-text-stroke-width:0px;background-color:rgb(33, 35, 40);border-bottom-style:none;border-bottom-width:0px;border-inline-style:none;border-inline-width:0px;border-top-style:none;border-top-width:0px;box-sizing:border-box;color:rgb(112, 141, 255);cursor:pointer;display:inline;font-family:-apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;list-style-type:none;margin-bottom:0px;margin-inline:0px;margin-top:0px;orphans:2;outline:none;overflow-wrap:break-word;padding-bottom:0px;padding-inline:0px;padding-top:0px;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;touch-action:manipulation;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.instagram.com/explore/tags/secretlocation/\" role=\"link\" tabindex=\"0\">#SecretLocation</a><span style=\"background-color:rgb(33,35,40);color:rgb(248,249,249);font-family:-apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;font-size:14px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"> </span></span><a class=\"x1i10hfl xjbqb8w x1ejq31n x18oe1m7 x1sy0etr xstzfhl x972fbf x10w94by x1qhh985 x14e42zd x9f619 x1ypdohk xt0psk2 x3ct3a4 xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz _aa9_ _a6hd\" style=\"-webkit-tap-highlight-color:transparent;-webkit-text-stroke-width:0px;background-color:rgb(33, 35, 40);border-bottom-style:none;border-bottom-width:0px;border-inline-style:none;border-inline-width:0px;border-top-style:none;border-top-width:0px;box-sizing:border-box;color:rgb(112, 141, 255);cursor:pointer;display:inline;font-family:-apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;list-style-type:none;margin-bottom:0px;margin-inline:0px;margin-top:0px;orphans:2;outline:none;overflow-wrap:break-word;padding-bottom:0px;padding-inline:0px;padding-top:0px;text-align:start;text-decoration:none;text-indent:0px;text-transform:none;touch-action:manipulation;white-space:normal;widows:2;word-spacing:0px;\" target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.instagram.com/explore/tags/tommypickles/\" role=\"link\" tabindex=\"0\">#TommyPickles</a></p>",
+          "description": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "location": "Tumbaco"
+        }
+      }
+    ],
+    "blog-post": [
+      {
+        "documentId": "xbbpgy262mxn4n5hebzxry83",
+        "locale": "en",
+        "publishedAt": "2025-10-10T02:03:29.845Z",
+        "fields": {
+          "title": "Tommy Pickles: Sus Selecciones Esenciales",
+          "slug": "tommy-pickles-sus-selecciones-esenciales",
+          "excerpt": "Tommy Pickles no solo es un DJ excepcional y un coleccionista obsesivo de vinilos, sino también un verdadero selector de sonidos únicos. Su meticulosa curaduría musical lo ha llevado a descubrir gemas ocultas y pistas icónicas que definen su estilo.",
+          "description": "<p>Tommy Pickles no solo es un DJ excepcional y un coleccionista obsesivo de vinilos, sino también un verdadero selector de sonidos únicos. Su meticulosa curaduría musical lo ha llevado a descubrir gemas ocultas y pistas icónicas que definen su estilo.&nbsp;</p><p>En esta entrega, exploramos algunas de sus selecciones esenciales, aquellas que han marcado sus sets y que representan la esencia de su sonido. Tracks esenciales en el repertorio de Tommy Pickles:</p><p>Candy Csonka &amp; Chris Delay - Tropical Eden&nbsp;</p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/kGiPNDOkg_A?si=vsbf0ur6sHAuR6Jq\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p>Un track que encapsula el sonido envolvente y espacial que Tommy busca en sus selecciones. Con atmósferas profundas y ritmos hipnóticos, es una pieza clave para cualquier set que quiera transportar a los oyentes a un viaje sonoro.&nbsp;</p><p>Dan Goodall - Trippid&nbsp;</p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3fyvZ8mOn0w?si=A5vxIhTddUoWva8l\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p>Este track combina elementos de electro con un groove irresistible. Su cadencia y texturas lo convierten en una elección frecuente en los sets de Tommy, aportando dinamismo y sofisticación al dancefloor.&nbsp;</p><p>Mulik &amp; Maniac - Spacepegel [B]&nbsp;</p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/VRa6Apzzpug?si=dWxulfw0T2L24pGd\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p>Un clásico del trance progresivo con una energía inconfundible. Sus melodías etéreas y su potente estructura rítmica han sido una constante en los momentos culminantes de sus presentaciones.&nbsp;</p><p>La importancia de la selección musical Para Tommy Pickles, la selección de tracks es más que una simple recopilación de música; es una declaración de intenciones. Cada pieza es elegida con precisión, asegurando que cada set cuente una historia y genere una atmósfera inolvidable. Sigue atento a sus próximas selecciones y descubre más sobre su enfoque musical en sus redes y plataformas de streaming.</p>"
+        }
+      },
+      {
+        "documentId": "e7pkfy1l42af55ejn0few5mn",
+        "locale": "en",
+        "publishedAt": "2025-11-19T18:34:56.789Z",
+        "fields": {
+          "title": "TC80: Between Digital Nostalgia and the Futuristic Underground",
+          "slug": "tc-80-between-digital-nostalgia-and-the-futuristic-underground",
+          "description": "<p>French producer TC80 (Tony Callea) has carved out a distinct space within Europe’s underground electronic scene. Based in Barcelona his sound moves fluidly between minimal, techno, and electro, built around a personal aesthetic: a world where retro video game soundtracks, sci-fi atmospheres, and hypnotic club rhythms coexist.</p><p data-start=\"793\" data-end=\"1093\">After years of residencies in German clubs, Tony launched the TC80 project as a reflection of his fascination with the digital textures of the ’80s and ’90s. In 2017, he co-founded <strong data-start=\"974\" data-end=\"994\">Sequalog Records</strong> with his friend Etienne, a label devoted to forward-thinking club music beyond genre boundaries.</p><p data-start=\"1095\" data-end=\"1372\">TC80’s productions aren’t just made for the dance floor—they’re made to <strong data-start=\"1167\" data-end=\"1199\">transport you somewhere else</strong>. Every release unfolds like a digital landscape: precise loops, robotic grooves, and immersive melodic lines that blur the line between club music and sonic storytelling.</p><p data-start=\"1374\" data-end=\"1730\">Across works like <em data-start=\"1392\" data-end=\"1398\"><i>PLAY</i></em> (2017), <em data-start=\"1407\" data-end=\"1413\"><i>Yoga</i></em> (2020), <em data-start=\"1422\" data-end=\"1439\"><i>Lost Station EP</i></em> (2022), and <em data-start=\"1452\" data-end=\"1462\"><i>Overload</i></em> (2023), his catalog has evolved toward a more sophisticated and emotionally charged form of electronic music. In a scene where trends come and go, TC80 stands out for maintaining his <strong data-start=\"1646\" data-end=\"1673\">underground credibility</strong> while crafting a <strong data-start=\"1691\" data-end=\"1727\">recognizable, cinematic identity</strong>.</p><h2 data-start=\"1737\" data-end=\"1795\">TC80’s 2025 Picks: Three Essential Tracks to Discover</h2><p data-start=\"1797\" data-end=\"2037\">As part of this feature, TC80 shared three of his most recent releases —a window into his creative direction for 2025. Each piece demonstrates his talent for sculpting intricate, immersive soundscapes where rhythm and imagination collide.</p><h3 data-start=\"2039\" data-end=\"2074\"><strong data-start=\"2043\" data-end=\"2072\">1. TC80 – Hipnosis Global</strong></h3><p data-start=\"2075\" data-end=\"2492\"><em data-start=\"2075\" data-end=\"2120\"><i>(VA – Coqueto Records, CQTR005, April 2025)</i></em></p><div class=\"raw-html-embed\"><iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=1221352202/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=509067113/transparent=true/\" seamless=\"\"><a href=\"https://cqtr.bandcamp.com/album/v-a-cqtr005\">V.A. - CQTR005 by Coqueto Records</a></iframe></div><h3 data-start=\"2499\" data-end=\"2531\">&nbsp;</h3><h3 data-start=\"2499\" data-end=\"2531\"><strong data-start=\"2503\" data-end=\"2529\">2. TC80 – 1001 Knights</strong></h3><p data-start=\"2532\" data-end=\"3003\"><em data-start=\"2532\" data-end=\"2574\"><i>(Duckit Records, DKT004, September 2025)</i></em></p><div class=\"raw-html-embed\"><iframe frameborder=\"no\" height=\"255\" src=\"https://www.juno.co.uk/player-embed/SF1105175-01-01-01.mp3/?pl=true&amp;ed=25-11-19\" scrolling=\"no\" width=\"100%\"></iframe></div><h3 data-start=\"3010\" data-end=\"3042\">&nbsp;</h3><h3 data-start=\"3010\" data-end=\"3042\"><strong data-start=\"3014\" data-end=\"3040\">3. TC80 – Hollow Dance</strong></h3><p data-start=\"3043\" data-end=\"3444\"><em data-start=\"3043\" data-end=\"3089\"><i>(VA – Planka Records, PLNK005, October 2025)</i></em></p><div class=\"raw-html-embed\"><iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2163637704&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/subwax-bcn-distribution\" title=\"Subwax Distribution\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Subwax Distribution</a> · <a href=\"https://soundcloud.com/subwax-bcn-distribution/plnk005\" title=\"Various Artists - Unspoken Understanding EP (PLNK005)\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Various Artists - Unspoken Understanding EP (PLNK005)</a></div></div><p data-start=\"3043\" data-end=\"3444\"><br>&nbsp;</p><p data-start=\"3474\" data-end=\"3730\">With these 2025 releases, TC80 continues to expand his sonic universe—bridging minimal and electro with narrative precision. His music feels simultaneously futuristic and nostalgic, reflecting the ongoing dialogue between analog emotion and digital form.</p><p data-start=\"3732\" data-end=\"3921\">TC80’s sound remains unmistakable: cerebral, cinematic, and endlessly evolving.</p>"
+        },
+        "relations": {
+          "category": "uld4pdpnp251vzpym23xxpuf"
+        }
+      },
+      {
+        "documentId": "ray7zhq3ib5rba3w7lonwyaj",
+        "locale": "en",
+        "publishedAt": "2025-10-10T02:09:49.190Z",
+        "fields": {
+          "title": "How to dig deep and organise records with Gene on Earth",
+          "slug": "how-to-dig-deep-and-organise-records-with-gene-on-earth",
+          "excerpt": "Gene first heard electronic music when he was about 11. \"I had a cousin who burnt me CDs which I listened to on repeat,\" he said in our latest Art of Djing. \"I didn't start getting into it until university, the moment of blog house.\"",
+          "description": "<p>Gene On Earth has Discogs roaming down to a fine art.&nbsp;</p><p>In this bespoke Art of DJing episode, we followed the beloved digger to his home neighbourhood of Neukölln, Berlin, where he meticulously showed us how he finds and organises his vast record collection.&nbsp;</p><p>Gene first heard electronic music when he was about 11. \"I had a cousin who burnt me CDs which I listened to on repeat,\" he said in our latest Art of Djing. \"I didn't start getting into it until university, the moment of blog house.\"&nbsp;</p><p>Since then, he’s become an international star for the heads, his trademark long blends sitting up there with peak-era Ricardo or Zip. Gene's attention to detail and passion is on full display in this film, offering a rare glimpse into the</p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/AVdmRQ0EUiU?si=Su406MojvDvQ0KZL\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p>&nbsp;</p>"
+        },
+        "relations": {
+          "category": "d6kbc31ha6x8nm7efgchf66s"
+        }
+      },
+      {
+        "documentId": "fh5ieuxsr5nghhxoxb29fe90",
+        "locale": "en",
+        "publishedAt": "2025-10-10T02:24:21.391Z",
+        "fields": {
+          "title": "Rawbeats presenta Lumiere, Nicola Cruz, Daïf",
+          "slug": "rawbeats-presenta-lumiere-nicola-cruz-daf",
+          "excerpt": "¡Vive una noche electrizante este viernes 7 de marzo! La escena musical se enciende con una alineación de lujo en un evento exclusivo que promete una experiencia inolvidable.",
+          "description": "<p>¡Vive una noche electrizante este viernes 7 de marzo! 🔥<br>La escena musical se enciende con una alineación de lujo en un evento exclusivo que promete una experiencia inolvidable. Nos enorgullece presentar a tres artistas de alto calibre que llevarán la energía al siguiente nivel.</p><p>Line-up de la noche:&nbsp;<br>🎧 @l.u.m.i.e.r.e - Reconocida por su increíble selección musical y su inigualable energía en cabina. Un talento excepcional que nos hará bailar sin descanso. 💣&nbsp;</p><div class=\"raw-html-embed\"><iframe width=\"100%\" height=\"300\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A1547679454&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/lucylumiere13\" title=\"Lumière\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Lumière</a> · <a href=\"https://soundcloud.com/lucylumiere13/sets/streaming-live-recording\" title=\"Streaming/Live Recording\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Streaming/Live Recording</a></div></div><p><br>🎧 @nicolacruzz - Artista revolucionario en la música electrónica, sorprendiéndonos con su técnica impecable y su versatilidad en diversos subgéneros. 💥&nbsp;</p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/_mgURSLvXnc?si=lJiI1jZMpM2IzZXb\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p><br>🎧 @presidentdaif (Desde Francia) - DJ y productor con un sonido distintivo que hará vibrar la pista con cada mezcla. ✨</p><div class=\"raw-html-embed\"><iframe width=\"100%\" height=\"300\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1575205870&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/outcast_torino\" title=\"Outcast Torino\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Outcast Torino</a> · <a href=\"https://soundcloud.com/outcast_torino/poutcast-51-daif\" title=\"POUTCAST #51: Daïf\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">POUTCAST #51: Daïf</a></div></div><p>Además, nuestros residentes @pabloarias54 y @iuniversal_ se encargarán de encender la pista y mantener el ritmo en lo más alto. 🙌</p><p>Nuestra pasión por el sonido, la ambientación y la curaduría nos permite crear un circuito de fiestas de primer nivel. 🚀</p><p>Consigue tus tickets aqui wa.me/message/F7ABURNTSQSQG1</p><p>🔴 DETALLES IMPORTANTES 🔴</p><p>Evento privado con capacidad limitada.</p><p>No se venderán entradas en puerta.</p><p>Adquiere tu entrada con tiempo a través del link en nuestra bio. ¡Aprovecha nuestras promociones para grupos!</p><p>No dejes pasar la oportunidad de formar parte de esta noche épica.</p><p>¡Nos vemos en la pista! 🔥🎉</p><p>&nbsp;</p>"
+        }
+      },
+      {
+        "documentId": "uuqthbhdxyr9yh7x2xc7ltpa",
+        "locale": "en",
+        "publishedAt": "2025-12-28T17:00:30.922Z",
+        "fields": {
+          "title": "Vinyl Expeditions with Late Night Workout",
+          "slug": "vinyl-expeditions-with-late-night-workout",
+          "excerpt": "Before we dive into the records themselves, a little context: Late Night Workout is more than just a DJ and collector. Based in Poland, he’s a passionate ...",
+          "description": "<p data-start=\"316\" data-end=\"925\">Before we dive into the records themselves, a little context: <strong data-start=\"378\" data-end=\"400\">Late Night Workout</strong>. Based in Poland, he’s a passionate vinyl digger with a decade-long commitment to uncovering and sharing electronic music that often doesn’t exist online — especially tracks that are hard to find or haven’t been uploaded anywhere yet. Through his <strong data-start=\"685\" data-end=\"704\">YouTube channel</strong>, he’s built a space where rare and overlooked releases can be discovered and appreciated by listeners around the world, blending the roles of curator, enthusiast, and community connector in underground electronic music.</p><p data-start=\"927\" data-end=\"1255\">In this <em data-start=\"935\" data-end=\"953\"><i>Vinyl Expedition</i></em>, he invited us into his archive of over 3,000 records to highlight <strong data-start=\"1021\" data-end=\"1036\">20 releases</strong> that have stayed with him — balancing club-ready dancefloor tools with deeply personal listening pieces. What follows isn’t just a list of favorites: it’s a glimpse into the tracks that have shaped his musical journey.</p><p data-start=\"927\" data-end=\"1255\">Letter by Late Night Workout:<br><br>Hi!<br><br>Recently I was asked by @Frequenzamusicec to pick a few records from my collection and say a few words about them. At first I planned to choose around 10–15 releases, but once I started, I realized it wouldn’t be that easy, and that I’d probably end up selecting more records than I originally thought. One of my biggest problems is that I practically have a new favorite record every week, which means that my collection is full of records I haven’t even given half the attention they actually deserve. So here you go — 20 records from my collection of over 3,000 releases, which I’ve been building for more than 10 years now. I tried to keep a balance between strictly club-oriented records and ones I really enjoy listening to at home. The order of the albums presented here is random.<br><br><br>&nbsp;</p><p data-start=\"927\" data-end=\"1255\"><strong>DJ Healer – Nothing 2 Loose</strong><br><br>One of the most important figures that shaped my musical taste when I started collecting vinyl is the mysterious producer from Hannover, mainly known as Traumprinz, Prinz Of Denmark, and DJ Metatron. In 2018, when he was already a well-established producer, he released two albums which, bought blindly, turned out to be real gems: the techno-oriented Prime Minister Of Doom – Mudshadow Propaganda and the more breakbeat- and ambient-driven DJ Healer – Nothing 2 Loose. A fun fact about this album is that there are several different cover versions, and when you ordered it, you never knew which one you’d get. This record is a true musical feast, full of ethereal, flowing sounds.<br><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=UTMVF_H8sTs\">https://www.youtube.com/watch?v=UTMVF_H8sTs</a></p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/UTMVF_H8sTs?si=4SmSaireZrALNtow\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p data-start=\"927\" data-end=\"1255\"><br>&nbsp;</p><p data-start=\"927\" data-end=\"1255\"><strong>Innere Tueren – Innere Tueren</strong><br><br>Released on the Leipzig-based label KANN Records, the mini-album Innere Tueren – Innere Tueren takes the listener on a melancholic journey to a place that seems to exist somewhere in childhood memories.<br><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=dvitNmlAyEA\">https://www.youtube.com/watch?v=dvitNmlAyEA</a></p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/dvitNmlAyEA?si=oR4dq6GLUd8CJLLP\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p data-start=\"927\" data-end=\"1255\"><br>&nbsp;</p><p data-start=\"927\" data-end=\"1255\"><strong>Clé Acklin – No Need To See</strong><br><br>I found this record a few years ago in one of my favorite record stores, @vinylgate recordstore in Poznań. I was really into Clé Acklin's music back then, so I was super happy about it. The main mix, played by Nathan Coles and Terry Francis in their Fabric mix, was recently reissued on the Mineral Cuts label. I highly recommend checking out other releases on Soundproof Music, especially the record by Waric Cameron. Incredible music.<br><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=Grxzu9N4Z5Y\">https://www.youtube.com/watch?v=Grxzu9N4Z5Y</a></p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Grxzu9N4Z5Y?si=Hps0TumdZP__eVR-\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p data-start=\"927\" data-end=\"1255\"><br>&nbsp;</p><p data-start=\"927\" data-end=\"1255\"><strong>Murray Richardson – Headstrong EP</strong><br><br>This is another record I found at Vinylgate Recordstore in Poznań. What’s funny is that I’d been looking for this one for a very long time — on Discogs there were only two copies available, shipping from Australia and the US. I even wrote to the producer of this EP, who turned out to be a super nice guy and sent me the digital files. Unfortunately, he didn’t have a copy he could sell. When I finally started to accept that I’d only ever have this record in digital form, I found a test press — again, at Vinylgate.<br><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=x5U5d5m-vns\">https://www.youtube.com/watch?v=x5U5d5m-vns</a></p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/x5U5d5m-vns?si=oYbD5_kZrwVwzUi1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p data-start=\"927\" data-end=\"1255\"><br>&nbsp;</p><p data-start=\"927\" data-end=\"1255\"><strong>Marzipan &amp; Mustard – Fuze</strong><br><br>I first heard the track Pool in a Felon5 mix — it actually opened the mix. I searched for the ID for ages, and when I finally found it, I immediately ordered the CD. Since then I’ve probably listened to it hundreds of times, always waiting for that last track. This is a perfect record for a winter evening, so I definitely recommend listening to it now, when it gets dark so quickly.<br><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=taZaV5W_zmE\">https://www.youtube.com/watch?v=taZaV5W_zmE</a></p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/taZaV5W_zmE?si=WU8TEdb7k8hUi9u-\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p data-start=\"927\" data-end=\"1255\"><br>&nbsp;</p><p data-start=\"927\" data-end=\"1255\"><strong>Bon Voyage Organisation – 星夜 = Xīngyè</strong><br><br>I bought this record during my “disco phase.” Rich, catchy compositions that quickly get stuck in your head and refuse to leave.<br><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=wwDHOXxG8O4\">https://www.youtube.com/watch?v=wwDHOXxG8O4</a></p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/wwDHOXxG8O4?si=svc8sIW2N-euLcth\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p data-start=\"927\" data-end=\"1255\"><br>&nbsp;</p><p data-start=\"927\" data-end=\"1255\"><strong>Avus – Breeder Of Psychosis</strong><br><br>Not much to say here — the original mix is an absolute monster of a banger that always works on the dancefloor. On the flip side, you’ll find a hypnotic remix by Smithmonger.<br><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=qsC61KxIhtY\">https://www.youtube.com/watch?v=qsC61KxIhtY</a></p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/qsC61KxIhtY?si=ASi5oni8NhEt0XxP\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p data-start=\"927\" data-end=\"1255\"><br>&nbsp;</p><p data-start=\"927\" data-end=\"1255\"><strong>Dylan Rhymes – Muji</strong><br><br>This track is just insane. I also got this record from Vinylgate Recordstore. A few years ago I was there with my friend GO (<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://soundcloud.com/grzo\">https://soundcloud.com/grzo</a>), and when he handed me this record to check out, I was literally speechless. A simple, tension-building loop that after just over a minute turns into a proper dancefloor banger, with a deep bassline that sounds deadly on a proper sound system. This record always heats up the floor.<br><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=JAAh1Tklrpk\">https://www.youtube.com/watch?v=JAAh1Tklrpk</a></p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/JAAh1Tklrpk?si=HQHRGue1tpfAGUmK\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p data-start=\"927\" data-end=\"1255\"><br>&nbsp;</p><p data-start=\"927\" data-end=\"1255\"><strong>Keith Nunnally – Seasons Of Love</strong><br><br>This blue record with an orange, heart-shaped leaf holds a special place in my collection. I have absolutely no doubts it belongs on this list. I’m almost embarrassed to admit it, but I don’t even know all the mixes on it. Whenever I put it on the turntable, I immediately skip to the Deep Dub mix by Maurice Joshua. Sex sounds in music can feel a bit cliché and not everyone is a fan of that kind of effect, but I totally fall for them in this track — mixed with that charming laugh, a repetitive bassline, and hypnotic piano. I absolutely love this tune.<br><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=ltFHcScrohE\">https://www.youtube.com/watch?v=ltFHcScrohE</a></p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ltFHcScrohE?si=YthnnzMojkST4Qvy\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p data-start=\"927\" data-end=\"1255\"><br>&nbsp;</p><p data-start=\"927\" data-end=\"1255\"><strong>Manuel Sahagun – Deep Friday EP</strong><br><br>I barely ever take this record out of my bag. Released on Wiggle, the legendary label run by Nathan Coles and Terry Francis, this EP is pretty much everything I love about dance music. When the bassline drops in Alright, most people on the dancefloor completely lose their minds. Deep Friday is a really nice tune as well.<br><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://youtu.be/IfEMmAx2gxo?si=R4jXT7DPiC3aZ37m\">https://youtu.be/IfEMmAx2gxo?si=R4jXT7DPiC3aZ37m</a></p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/IfEMmAx2gxo?si=ImZ4NrFq8vftYZKJ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p data-start=\"927\" data-end=\"1255\"><br>&nbsp;</p><p data-start=\"927\" data-end=\"1255\"><strong>Tom Gillieron – All Night</strong><br><br>This is probably my favorite record released by Tom Gillieron. Three dancefloor tracks that always get an excited reaction from the crowd. My favorite of the three is Heavy Dose Remedy. On a big sound system, this track sounds incredibly energetic, yet still deep.<br><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://youtu.be/AMTOlYFEFc0?si=5E7RYBfaoJgKYpq0\">https://youtu.be/AMTOlYFEFc0?si=5E7RYBfaoJgKYpq0</a></p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/AMTOlYFEFc0?si=Pvo0dmvrsvLyLD_R\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p data-start=\"927\" data-end=\"1255\"><br><br><strong>Etnobotanika – Fruwający Przestępca</strong><br><br>This record is a real gem among more recent releases from the Polish underground. The very low-profile duo Etnobotanika released their debut album on Superkasety Records and The Very Polish Cut-Outs. You can really feel the vibe of Poland in the 1980s and 1990s here. The album contains a huge amount of samples from old Polish films and TV series. The range of styles is impressive — from downtempo and ambient, through house, all the way to dub techno. I also highly recommend checking out their latest album, Kosmobotanika, released earlier this year. A few copies are still available on Superkasety Records’ Bandcamp: <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://superkasety.bandcamp.com/\">https://superkasety.bandcamp.com/</a><br><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=r6qvXD09DtE\">https://www.youtube.com/watch?v=r6qvXD09DtE</a></p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/r6qvXD09DtE?si=YEdxHnEBq1oxAm5v\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p data-start=\"927\" data-end=\"1255\"><br><br><strong>Wanderwelle – Lost In A Sea Of Trees</strong><br><br>Very often I place one of my records on a shelf or somewhere visible, so it catches my eye. This is one of the records I keep putting on top. Thanks to that, I reach for it quite often and listen to it a lot. Maybe that’s why I’ve listened to this album so many times. Haunting and dreamy melodies.<br><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=7-ab2x3GgcE\">https://www.youtube.com/watch?v=7-ab2x3GgcE</a></p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/7-ab2x3GgcE?si=Gfy_7H3KOVbMthNz\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p data-start=\"927\" data-end=\"1255\"><br><br><strong>42 Cows In Town – 42 Cows In Town</strong><br><br>I bought this record not that long ago, but it very quickly earned a special place in my collection. It’s quite versatile for DJ sets. Coffeeshop People (Orlando Careca Coffee Dub Mix) is an ultra-deep house track. On the flip side, there’s a proper peak-time weapon — U No opens with a solid kick drum and a pulsing bassline. Halfway through, a synth section comes in and things get really hot.<br><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://youtu.be/zFNKIpnww_0\">https://youtu.be/zFNKIpnww_0</a></p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/zFNKIpnww_0?si=w0ZY-jDqtoxu14jh\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p data-start=\"927\" data-end=\"1255\"><br><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://youtu.be/ZIy-X6H4OmA\">https://youtu.be/ZIy-X6H4OmA</a></p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ZIy-X6H4OmA?si=4tj5khK253ngvxGg\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p data-start=\"927\" data-end=\"1255\">&nbsp;</p><p data-start=\"927\" data-end=\"1255\"><br><strong>DAV – Headspin</strong><br><br>I love hypnotic tracks with deep vocals, and Headspin is exactly that. The title track from the EP by Croatian maestro Davor Stosic, releasing music under the name DAV. Released on the phenomenal Sensei label, the EP features three powerful tech house tracks soaked in deep basslines, chopped vocals, and acid sounds.<br><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=S-jHQVtuTbQ\">https://www.youtube.com/watch?v=S-jHQVtuTbQ</a></p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/S-jHQVtuTbQ?si=vfxcE5cviWDb3_Vi\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p data-start=\"927\" data-end=\"1255\">&nbsp;</p><p data-start=\"927\" data-end=\"1255\"><br><strong>Martha Cinader – Living It (The Remixes)</strong><br><br>For a few years now, I’ve been going with my crew to a small village near the German border, where we rent a villa in the forest, set up DJ gear and a sound system under a roof on the terrace, and play music in turns from Friday until Sunday morning. Imagine dancing all night surrounded by trees to music played by your friends, and then in the morning, when your friend finishes his set, you hear this track. That’s how I first heard this tune, and I instantly fell in love with it. Since then I’ve probably listened to it hundreds of times — it also accompanied me through some more difficult moments in life. Some people might find it funny, but the lyrics of this track really motivate me and pushes me forward. And the whole tune is simply addictive.<br><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://youtu.be/j-_OZ5_NGhg\">https://youtu.be/j-_OZ5_NGhg</a></p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/j-_OZ5_NGhg?si=z5aEDfUw5R8suJ6j\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p data-start=\"927\" data-end=\"1255\"><br><br><strong>Demuir – Love Jones</strong><br><br>This is one of those tracks that just won’t leave your head. What I like most on this record is the Original Mix — a deep bassline and a sensual, catchy vocal. The Kappacino Mix is much rawer, and around the 2-minute mark an incredible percussion section comes in, so that version is definitely worth checking out as well.<br><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=JrHnW7fecp4\">https://www.youtube.com/watch?v=JrHnW7fecp4</a></p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/JrHnW7fecp4?si=QGrzo6_j-oyT2vTh\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p data-start=\"927\" data-end=\"1255\"><br><br><strong>BT's Hair – Never Honk A Donkey</strong><br><br>BT’s Hair is one of my favorite Marky Star aliases. This isn’t confirmed, but I’ve heard that the /qoo7 label, on which this record was released, actually belonged to Marky himself. I also really love the Never Honk A Phrunky (Ty Tek &amp; Little Mike Remix) — they turned the original into a dark, tech-house heater with a rolling bassline.<br><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=S0r_b5Nj8kM\">https://www.youtube.com/watch?v=S0r_b5Nj8kM</a></p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/S0r_b5Nj8kM?si=3WWLrnyPdDyMDIPV\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p data-start=\"927\" data-end=\"1255\"><br><strong>DCL Project – French Connection E.P.</strong><br><br>I really like this EP. It opens with a hypnotic tech house track featuring looped vocals that remind me of the classic Iteration X – Timecheck. I also really like Danny’s Tripp (Danny Chatelain Remix – The Alchemy), which has a spy-movie vibe and some very cool and silly samples running throughout the track.<br><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=4VCWQClNTuQ\">https://www.youtube.com/watch?v=4VCWQClNTuQ</a></p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4VCWQClNTuQ?si=ZtXvBOtx2wkHLRyl\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p data-start=\"927\" data-end=\"1255\"><br><br><strong>Various – SFO Arrivals 2</strong><br><br>I bought this record relatively recently, mainly because releases from the San Francisco–based label MDEX are quite expensive these days. That said, this 4-tracker has recently become one of my favorite records. It opens with a short acoustic track and then quickly gets down to business. Troubled Times is a hypnotic deep house track, very much in line with other productions by DJ Naz. The B-side opens with Salt ’n’ Candy, an interesting production by Eli Bingham with nice inserts and a vocoder-style vocal. My favorite track on this record, however, is Tapio Schnaars – Router. Every time I hear that melody, my mood instantly improves.<br><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"http://youtube.com/watch?v=q5ibSoz2BmI\">http://youtube.com/watch?v=q5ibSoz2BmI</a></p><div class=\"raw-html-embed\"></div>"
+        },
+        "relations": {
+          "category": "uld4pdpnp251vzpym23xxpuf"
+        }
+      },
+      {
+        "documentId": "zcirdprd415coocb5l49vgrg",
+        "locale": "en",
+        "publishedAt": "2025-10-15T18:21:20.436Z",
+        "fields": {
+          "title": "Vinyl Expeditions with A:G: London's Crate Digging Adventures at All My Friends & Phonica Records",
+          "slug": "vinyl-expeditions-with-a-g-london-s-crate-digging-adventures-at-all-my-friends-and-phonica-records",
+          "description": "<p>For any true music lover, the thrill of the hunt is a fundamental part of the experience. The dusty fingers, the countless hours sifting through crates, the whispered promise of a hidden gem – it’s a ritual. And for <strong>Asgeir Giskegjerde, known to the electronic music world as A:G</strong>, this ritual is a lifelong calling. We recently joined A:G on a special \"Vinyl Expedition\" through London, visiting two essential pillars of the city's vinyl scene: <strong>All My Friends</strong> and the legendary <strong>Phonica Records</strong>.</p><p>You can also listen to the podcast he recorded for us:</p><div class=\"raw-html-embed\"><iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2189532275&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true\"></iframe></div><h3>&nbsp;</h3><h3>The Never-Ending Search: A:G's Philosophy</h3><p><img class=\"image_resized\" style=\"aspect-ratio:1512/2016;width:50%;\" src=\"https://radiant-warmth-68ec252025.media.strapiapp.com/Whats_App_Image_2025_09_26_at_9_25_56_AM_07e731aac5.jpeg\" alt=\"WhatsApp Image 2025-09-26 at 9.25.56 AM.jpeg\" srcset=\"https://radiant-warmth-68ec252025.media.strapiapp.com/thumbnail_Whats_App_Image_2025_09_26_at_9_25_56_AM_07e731aac5.jpeg 117w,https://radiant-warmth-68ec252025.media.strapiapp.com/small_Whats_App_Image_2025_09_26_at_9_25_56_AM_07e731aac5.jpeg 375w,https://radiant-warmth-68ec252025.media.strapiapp.com/medium_Whats_App_Image_2025_09_26_at_9_25_56_AM_07e731aac5.jpeg 563w,https://radiant-warmth-68ec252025.media.strapiapp.com/large_Whats_App_Image_2025_09_26_at_9_25_56_AM_07e731aac5.jpeg 750w,\" sizes=\"100vw\" width=\"1512\" height=\"2016\"></p><p>A:G isn't just a DJ; he's a sonic cartographer, charting new territories of sound with \"openness and never-ending curiosity.\" His journey has taken him to play in <strong>Berlin, New York, Londo, Paris</strong>, and many others. What drives this relentless pursuit? It's the profound joy of discovering those \"extra little something\" tracks – the ones that resonate deeply and connect with listeners on a visceral level.</p><h3>Stop One: All My Friends – A Welcoming Hub</h3><p><img class=\"image_resized\" style=\"aspect-ratio:2000/1500;width:75%;\" src=\"https://radiant-warmth-68ec252025.media.strapiapp.com/Whats_App_Image_2025_09_26_at_9_26_01_AM_1_a75df5ad78.jpeg\" alt=\"WhatsApp Image 2025-09-26 at 9.26.01 AM (1).jpeg\" srcset=\"https://radiant-warmth-68ec252025.media.strapiapp.com/thumbnail_Whats_App_Image_2025_09_26_at_9_26_01_AM_1_a75df5ad78.jpeg 209w,https://radiant-warmth-68ec252025.media.strapiapp.com/small_Whats_App_Image_2025_09_26_at_9_26_01_AM_1_a75df5ad78.jpeg 500w,https://radiant-warmth-68ec252025.media.strapiapp.com/medium_Whats_App_Image_2025_09_26_at_9_26_01_AM_1_a75df5ad78.jpeg 750w,https://radiant-warmth-68ec252025.media.strapiapp.com/large_Whats_App_Image_2025_09_26_at_9_26_01_AM_1_a75df5ad78.jpeg 1000w,\" sizes=\"100vw\" width=\"2000\" height=\"1500\"></p><p>Our first stop was <strong>All My Friends</strong>, a record store that truly lives up to its name. It exudes a warm, inviting atmosphere, feeling less like a shop and more like a cherished community space. The carefully curated selection reflects a genuine passion for music, covering a diverse range of genres that encourages deep exploration.</p><p><img class=\"image_resized\" style=\"aspect-ratio:2016/1512;width:75%;\" src=\"https://radiant-warmth-68ec252025.media.strapiapp.com/Whats_App_Image_2025_09_26_at_9_25_57_AM_dfcdd17495.jpeg\" alt=\"WhatsApp Image 2025-09-26 at 9.25.57 AM.jpeg\" srcset=\"https://radiant-warmth-68ec252025.media.strapiapp.com/thumbnail_Whats_App_Image_2025_09_26_at_9_25_57_AM_dfcdd17495.jpeg 208w,https://radiant-warmth-68ec252025.media.strapiapp.com/small_Whats_App_Image_2025_09_26_at_9_25_57_AM_dfcdd17495.jpeg 500w,https://radiant-warmth-68ec252025.media.strapiapp.com/medium_Whats_App_Image_2025_09_26_at_9_25_57_AM_dfcdd17495.jpeg 750w,https://radiant-warmth-68ec252025.media.strapiapp.com/large_Whats_App_Image_2025_09_26_at_9_25_57_AM_dfcdd17495.jpeg 1000w,\" sizes=\"100vw\" width=\"2016\" height=\"1512\"></p><p>A:G spent considerable time here, meticulously sifting through funk, disco, house, and everything in between. His process is a masterclass in patience and intuition – picking up a record, examining the label, feeling the weight, and often heading straight to the listening deck to gauge its energy. It's clear that for A:G, every record tells a story, and he's eager to bring those stories into his sets.</p><h3>Stop Two: Phonica Records – The Iconic Destination</h3><p>Next, it was off to <strong>Phonica Records</strong>, a name synonymous with quality electronic music and a pilgrimage site for DJs worldwide. Stepping into Phonica is like entering a cathedral of beats; the walls are lined with pristine wax, and the air hums with the energy of countless past and future dancefloors.</p><p><img class=\"image_resized\" style=\"aspect-ratio:2000/1500;width:75%;\" src=\"https://radiant-warmth-68ec252025.media.strapiapp.com/Whats_App_Image_2025_10_08_at_7_02_48_AM_d067f1d5e3.jpeg\" alt=\"WhatsApp Image 2025-10-08 at 7.02.48 AM.jpeg\" srcset=\"https://radiant-warmth-68ec252025.media.strapiapp.com/thumbnail_Whats_App_Image_2025_10_08_at_7_02_48_AM_d067f1d5e3.jpeg 209w,https://radiant-warmth-68ec252025.media.strapiapp.com/small_Whats_App_Image_2025_10_08_at_7_02_48_AM_d067f1d5e3.jpeg 500w,https://radiant-warmth-68ec252025.media.strapiapp.com/medium_Whats_App_Image_2025_10_08_at_7_02_48_AM_d067f1d5e3.jpeg 750w,https://radiant-warmth-68ec252025.media.strapiapp.com/large_Whats_App_Image_2025_10_08_at_7_02_48_AM_d067f1d5e3.jpeg 1000w,\" sizes=\"100vw\" width=\"2000\" height=\"1500\"></p><p>Here, A:G delved into the freshest releases and sought out those deeper cuts Phonica is renowned for. His \"playful approach to blending tracks and styles\" means he's not just looking for bangers, but for unique textures and harmonies that will create those \"waves of energy\" his sets are known for. From obscure house to pulsating techno, every selection is made with an ear for connection.</p><h3>The Haul: A Curated Selection of Gems</h3><p>After hours of dedicated digging at both incredible establishments, A:G emerged with a formidable stack of vinyl. Each record is a testament to his discerning taste and his commitment to unearthing music that truly moves people. This isn't just a collection; it's a meticulously chosen arsenal of sonic storytelling.</p><p><img class=\"image_resized\" style=\"aspect-ratio:1512/2016;width:75%;\" src=\"https://radiant-warmth-68ec252025.media.strapiapp.com/Whats_App_Image_2025_09_26_at_9_25_28_AM_d78fc90add.jpeg\" alt=\"WhatsApp Image 2025-09-26 at 9.25.28 AM.jpeg\" srcset=\"https://radiant-warmth-68ec252025.media.strapiapp.com/thumbnail_Whats_App_Image_2025_09_26_at_9_25_28_AM_d78fc90add.jpeg 117w,https://radiant-warmth-68ec252025.media.strapiapp.com/small_Whats_App_Image_2025_09_26_at_9_25_28_AM_d78fc90add.jpeg 375w,https://radiant-warmth-68ec252025.media.strapiapp.com/medium_Whats_App_Image_2025_09_26_at_9_25_28_AM_d78fc90add.jpeg 563w,https://radiant-warmth-68ec252025.media.strapiapp.com/large_Whats_App_Image_2025_09_26_at_9_25_28_AM_d78fc90add.jpeg 750w,\" sizes=\"100vw\" width=\"1512\" height=\"2016\"></p><h3>Discover A:G's London Finds!</h3><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4TCXLwr-Sxo?si=9Vi3EZk6VQPWQi1t\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p>Moody morning techno from 1997 on Force Inc - a label with many gems 💎</p><p>&nbsp;</p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/KUAsvBjHxfY?si=u798cR9lqcDK5G_h\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p>Stumbled across this record in the Lirica Archives section, containing a reissue of an old gem on the legendary Exun label. Quite happily so, as I missed the stock on deejay.de when the reissue first came out.</p><p>&nbsp;</p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Z0BKIbVRTcA?si=SYlkmAkuTXsFzgrU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p>A bassline driven track to keep the energy steady while breaking it up a bit at the same time</p><p>&nbsp;</p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/IPsT64Oq9Sk?si=BBosZUs6vvmBkWc9\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p>A good track towards the end of a long, long night</p><p>&nbsp;</p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/HskvTaY6vFo?si=wy1dlC6wA0AAWyDQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p>Late night proggy electro burner from the Dahlbäcks - feel the subs!</p><p>&nbsp;</p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/_Plv3C_gA-g?si=ldJjKqidyC5cu-E4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p>Very happily stumbled across this repress in Phonica, as the old one has been in my wantlist for aaaaaages. Good early Alex Neri stuff</p><p>&nbsp;</p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/MdE-K2TnHsM?si=v-2wNSneswkoaYky\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p>Bleepy machine funk from Tom Carruthers. This stuff slams on a big rig.<br>Good release overall but this track is the standout for me.</p><p>&nbsp;</p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Z8f3EycGt1s?si=37vF_4mZdn7z-FtY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p>Reissue of the sought-after whitelabel by Darren Roach</p><p>&nbsp;</p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/h63zYfT0X6g?si=TcqbtlN772YpQ13h\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p>Bouncy banger by Subb-An and Luther Wine</p><p>&nbsp;</p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/JbySohLL3io?si=N6fQyRzChU4W_riP\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p>Miles Mercer - Control is an absolute banger. Also check out&nbsp;</p><p>&nbsp;</p>"
+        },
+        "relations": {
+          "category": "uld4pdpnp251vzpym23xxpuf"
+        }
+      },
+      {
+        "documentId": "qx90qme4rjhnot29m1u8a870",
+        "locale": "en",
+        "publishedAt": "2025-10-10T02:13:52.395Z",
+        "fields": {
+          "title": "Traumer : Una Noche de Pura Magia",
+          "slug": "traumer-noche-pura-magia",
+          "excerpt": "Traumer: A night of pure magic",
+          "description": "<p>La escena electrónica en Latinoamérica se sigue consolidando con eventos de primer nivel, y el próximo 28 de marzo, Bassick y Frequenza unen fuerzas para traer a uno de los artistas más destacados del circuito underground: Traumer.&nbsp;</p><p>Acompañado por Tommy Pickles, esta noche promete ser una experiencia única para los amantes del house y el minimal.&nbsp;</p><p>Traumer: Innovación y Energía en la Pista de Baile Romain Reynaud, mejor conocido como Traumer, es una de las mayores exportaciones musicales de Francia en la escena electrónica.&nbsp;</p><p>Su carrera despegó hace más de una década con una constante ola de lanzamientos aclamados por la crítica, y desde entonces ha sido un nombre recurrente en los mejores clubes y festivales del mundo.&nbsp;</p><p>Su sonido, una fusión de house minimalista con grooves hipnóticos y ritmos envolventes, lo ha llevado a la cima de la escena.&nbsp;</p><p>Sus sets, repletos de producciones inéditas y edits exclusivos, hacen de cada presentación una experiencia única e irrepetible. Además, Traumer ha expandido su visión creativa con get-traum, el sello que fundó en 2016, donde ha dado espacio a talentos emergentes y colaboraciones fuera del ámbito musical.&nbsp;</p><p>Más sobre Traumer en: https://www.pieces.live/artists/traumer&nbsp;</p><div class=\"raw-html-embed\"><iframe width=\"100%\" height=\"300\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1510171201&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/traumer\" title=\"traumer\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">traumer</a> · <a href=\"https://soundcloud.com/traumer/traumer-dj-set-6-hours-rex-club-paris\" title=\"Traumer DJ SET (6 HOURS) @ Rex Club, Paris\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Traumer DJ SET (6 HOURS) @ Rex Club, Paris</a></div></div><p>Un Line-up de Lujo con Tommy Pickles Junto a Traumer, el evento contará con Tommy Pickles, quien ha sido una figura clave en la escena electrónica local. Su estilo fresco y dinámico asegurará una apertura de lujo para una noche inolvidable.&nbsp;</p><p>Detalles del Evento&nbsp;</p><p>📅 Fecha: 28 de marzo 2024&nbsp;</p><p>📍Ubicación: La Valentina&nbsp;</p><p>🎟 Entradas: https://frequenzamusic.com&nbsp;</p><p>No te pierdas esta oportunidad de vivir una noche llena de vibraciones únicas con uno de los mejores exponentes del house minimalista a nivel mundial. ¡Nos vemos en la pista!</p>"
+        },
+        "relations": {
+          "category": "uld4pdpnp251vzpym23xxpuf"
+        }
+      },
+      {
+        "documentId": "qi62o2xhwo231vjdw36iy0c3",
+        "locale": "en",
+        "publishedAt": "2025-10-10T02:19:32.637Z",
+        "fields": {
+          "title": "Tommy Pickles: Un viaje musical desde Essex hasta la escena underground global",
+          "slug": "tommy-pickles-viaje-musical-essex-escena-underground-global",
+          "excerpt": "Tommy Pickles journey from Essex to the global underground scene",
+          "description": "<p>Tommy Pickles: Un viaje musical desde Essex hasta la escena underground global&nbsp;</p><p>La música electrónica está llena de figuras apasionadas que dedican su vida a explorar y compartir sonidos que trascienden fronteras.&nbsp;</p><p>Tommy Pickles es una de esas figuras, un DJ y coleccionista de vinilos cuya historia comienza en Essex, Reino Unido, y se expande a escenarios internacionales, dejando una huella imborrable en la cultura underground.&nbsp;</p><p>Los inicios: Grime y Garage en la sangre Desde una edad temprana, Tommy fue cautivado por el vibrante sonido del grime y el garage, géneros que definieron la escena musical del Reino Unido en los años 2000.</p><div class=\"raw-html-embed\"><iframe width=\"100%\" height=\"300\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A960563182&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/outsiders-montreal\" title=\"Outsiders\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Outsiders</a> · <a href=\"https://soundcloud.com/outsiders-montreal/outsidecast-36-tommy-pickles\" title=\"Outsidecast 36 | Tommy Pickles\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Outsidecast 36 | Tommy Pickles</a></div></div><p>Esta fascinación marcó el comienzo de su viaje, llevándolo a descubrir nuevas vertientes dentro de la electrónica como el house, el techno y el electro.&nbsp;</p><p>Su pasión se consolidó cuando, a los 21 años, recibió sus primeras tornamesas, iniciando así una obsesión por la recolección de música de todo el mundo. Un coleccionista y creador de atmósferas sonoras Lo que distingue a Tommy Pickles es su meticulosa selección musical.&nbsp;</p><div class=\"raw-html-embed\"><iframe width=\"100%\" height=\"300\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1831285764&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/seekershome\" title=\"seekers\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">seekers</a> · <a href=\"https://soundcloud.com/seekershome/series8\" title=\"seekers series #8: tommy pickles\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">seekers series #8: tommy pickles</a></div></div><p>Su biblioteca de sonidos es vasta y ecléctica, conformada por tracks que ha descubierto en los rincones más diversos del planeta. Esta dedicación a la curaduría musical lo ha llevado a compartir su talento en prestigiosos podcasts underground como Spaced, Cartulis, Outsiders y Faciendo, donde ofrece una muestra de su característico sonido.&nbsp;</p><p>De Londres al mundo Londres ha sido el epicentro de la evolución musical de Tommy.&nbsp;</p><p>Ha participado en diversas fiestas en la capital británica y se ha convertido en residente de los icónicos eventos de Opia Records. Pero su influencia no se ha limitado a su ciudad natal. En los últimos años, su música lo ha llevado a recorrer Europa, presentándose en ciudades como Tallin, París, Nápoles y Liubliana. Además, ha cruzado el Atlántico para actuar en Estados Unidos, con presentaciones en Nueva York y Los Ángeles.&nbsp;</p><div class=\"raw-html-embed\"><iframe width=\"100%\" height=\"300\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A816266284&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/faciendo\" title=\"Faciendo\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Faciendo</a> · <a href=\"https://soundcloud.com/faciendo/tommy-pickles\" title=\"Tommy Pickles\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Tommy Pickles</a></div></div><p>En cada actuación, Tommy logra conectar con el público a través de una combinación única de pasión, técnica y una profunda comprensión del ritmo. Una experiencia única en la pista de baile Quienes han tenido la oportunidad de verlo en acción saben que Tommy Pickles no es solo un DJ, sino un arquitecto de atmósferas.&nbsp;</p><p>Su habilidad para construir momentos en la pista de baile deja a los asistentes en un estado de asombro y euforia. Su amor por la música se siente en cada set, creando experiencias que permanecen en la memoria de quienes las viven.&nbsp;</p><p>Tommy Pickles continúa su viaje, expandiendo su sonido y llevando su visión musical a nuevas audiencias.&nbsp;</p><div class=\"raw-html-embed\"><iframe width=\"100%\" height=\"300\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2086506078&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/frequenza-ec\" title=\"FrequenzaMusic\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">FrequenzaMusic</a> · <a href=\"https://soundcloud.com/frequenza-ec/freqcast-001-tommy-pickles-live-28-03-2025\" title=\"FreqCast 001 - Tommy Pickles live 28-03-2025\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">FreqCast 001 - Tommy Pickles live 28-03-2025</a></div></div><p>Su historia es la prueba de que la pasión y la dedicación pueden transformar una simple afición en una carrera vibrante y global. La música electrónica está llena de figuras apasionadas que dedican su vida a explorar y compartir sonidos que trascienden fronteras.&nbsp;</p><p>Tommy Pickles es una de esas figuras, un DJ y coleccionista de vinilos cuya historia comienza en Essex, Reino Unido, y se expande a escenarios internacionales, dejando una huella imborrable en la cultura underground.</p>"
+        },
+        "relations": {
+          "category": "uld4pdpnp251vzpym23xxpuf"
+        }
+      },
+      {
+        "documentId": "wvcoagh0yehrtu0vf3u7f0zd",
+        "locale": "en",
+        "publishedAt": "2025-10-10T01:43:54.697Z",
+        "fields": {
+          "title": "DC Salas: Ritmos con Raíces y Futuro desde Bruselas",
+          "slug": "dc-salas-ritmos-con-races-y-futuro-desde-bruselas",
+          "excerpt": "\"Conoce a DC Salas, DJ y productor belga de origen peruano, cuya música es un viaje energético que atraviesa el house, acid, techno, y los sonidos nostálgicos ",
+          "description": "<p>Conoce a DC Salas, DJ y productor belga de origen peruano, cuya música es un viaje energético que atraviesa el house, acid, techno, y los sonidos nostálgicos de los 90. Desde sus residencias en el legendario club Fuse y en Kiosk Radio de Bruselas, hasta presentaciones en lugares icónicos como Robert Johnson (Frankfurt), Nitsa (Barcelona), Rex Club (París), Kaputt (Bogotá) y festivales como Dour, Pukkelpop o Paradise City, DC Salas se ha consolidado como una figura clave de la escena electrónica europea.</p><p>Su catálogo como productor es igualmente impresionante, con lanzamientos en sellos como Live at Robert Johnson, Correspondant, R.A.N.D Muzik, Kill The DJ, Futureboogie y B-Pitch Control. En 2022, celebró su vigésimo EP, “Voces”, y en 2024 lanzó su segundo álbum. Lo que viene en 2025 ya promete: nuevos EPs en Time Passages, Correspondant, Cocoon, Eya Records y Comeme, además de su nuevo live show, que se estrenará en febrero en el Magma Festival en Bruselas.Tuvimos el placer de hablar con él sobre su visión artística, sus influencias y su relación con Bruselas. Aquí la entrevista:</p><p><strong>Ser residente en Fuse, uno de los clubes más icónicos de Bruselas, ¿cómo ha influido eso en tu manera de hacer DJing y conectar con la pista?</strong></p><p>Ser residente en Fuse es, sinceramente, un sueño. Es un lugar icónico con una historia muy rica, y realmente te impulsa a crecer. Aprendes a construir narrativas a lo largo de sets más largos, a profundizar, a leer la pista con más precisión. Tocar de manera regular también significa que creas un vínculo fuerte con el público: empiezas a reconocer caras, a sentir ese bucle de energía entre la cabina y la pista. Me ha formado como un DJ más intencional y versátil.</p><p><strong>Tus producciones abarcan house, acid y sonidos más emocionales. ¿Cómo describirías tu identidad sonora actual?</strong></p><p>¡Soy bastante malo describiendo mi música! Jaja. Pero diría que mi sonido habita en un espacio donde las basslines tienen un papel central, y donde las melodías, la nostalgia y los matices más oscuros se cruzan. Me gusta la tensión, la profundidad emocional y los grooves que te hacen bailar pero también te remueven algo por dentro.</p><p><strong>Bruselas parece ser más que tu base—es parte de tu ADN artístico. ¿Cómo influye la ciudad en tu música?</strong></p><p>Bruselas es un cruce increíble de culturas, lenguas y escenas. Crecer aquí me enseñó desde temprano que mezclar influencias y géneros no solo está bien, sino que es emocionante y necesario. Hay una especie de rareza discreta en la ciudad con la que me siento muy identificado, y eso definitivamente se filtra en mis producciones y en mis sets como DJ.</p><p><strong>Cuéntanos sobre Kiosk Radio.</strong></p><p>Kiosk Radio es una de las iniciativas culturales más importantes de Bruselas, sin duda. Es mucho más que una emisora: es un centro comunitario. Vas no solo a pinchar, sino también a pasar el rato, a ver amigos, a descubrir nueva música y artistas. Hay algo muy especial en esa pequeña cabaña de madera en el parque: está llena de amor y de apertura mental. Estoy súper agradecido de formar parte de ello.</p><p><strong>¿Hay alguna canción —tuya o de otro artista— que nunca falta en tu maleta de DJ?</strong></p><p>¡Qué pregunta difícil! En los últimos meses, Decibolt – Kan’t Be K ha sido uno de esos temazos que nunca salen de mi maleta. Colours de Bruno, editado por 22Recordings, es otro al que siempre vuelvo. Ambos tienen algo especial que siempre funciona en la pista.</p><p><strong>Últimos EPs de DC Salas:</strong></p><p>Pixelated Dream Theory EP</p><div class=\"raw-html-embed\"><iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=4033776411/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/\" seamless=\"\"><a href=\"https://dcsalas.bandcamp.com/album/pixelated-dream-theory\">Pixelated Dream Theory by DC Salas</a></iframe></div><p>&nbsp;</p><p>Pressure EP (R.A.N.D Muzik &amp; Echocentric)</p><div class=\"raw-html-embed\"><iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=958728319/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/\" seamless=\"\"><a href=\"https://echocentricrecords.bandcamp.com/album/pressure-ep\">Pressure EP by DC Salas</a></iframe></div><p>&nbsp;</p><p>Voces EP (Live at Robert Johnson)</p><div class=\"raw-html-embed\"><iframe width=\"100%\" height=\"300\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A1533906004&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/dc-salas\" title=\"DC Salas / Higher Hopes Records\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">DC Salas / Higher Hopes Records</a> · <a href=\"https://soundcloud.com/dc-salas/sets/dc-salas-voces-ep-live-at-1\" title=\"DC Salas — Voces EP [Live At Robert Johnson]\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">DC Salas — Voces EP [Live At Robert Johnson]</a></div></div><p>&nbsp;</p><p>Time Well Spent EP (TAU)</p><div class=\"raw-html-embed\"><iframe width=\"100%\" height=\"300\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A1415076859&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/tautautauofficial\" title=\"TAU\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">TAU</a> · <a href=\"https://soundcloud.com/tautautauofficial/sets/tau032-dc-salas-time-well-spent-ep\" title=\"TAU032 | DC Salas - Time Well Spent EP\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">TAU032 | DC Salas - Time Well Spent EP</a></div></div><p>&nbsp;</p><p>Healing is a Process (Correspondant)</p><div class=\"raw-html-embed\"><iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=1873367496/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2917965085/transparent=true/\" seamless=\"\"><a href=\"https://dcsalas.bandcamp.com/album/healing-is-a-process\">Healing Is A Process by DC Salas</a></iframe></div><p>&nbsp;</p><p>The Weight Of Uncertainty EP (Futureboogie)</p><div class=\"raw-html-embed\"><iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=3803751158/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/\" seamless=\"\"><a href=\"https://futureboogie-recordings.bandcamp.com/album/the-weight-of-uncertainty-ep\">The Weight Of Uncertainty EP by DC Salas</a></iframe></div><p>&nbsp;</p><p>Le Réveil (Pets Recordings)</p><div class=\"raw-html-embed\"><iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=1427042449/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/\" seamless=\"\"><a href=\"https://petsrecordings.bandcamp.com/album/dc-salas-le-r-veil-pets137\">DC Salas - Le Réveil [PETS137] by DC Salas</a></iframe></div><p>&nbsp;</p><p>The Beautiful Feelings (Live at Robert Johnson)</p><div class=\"raw-html-embed\"><iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=804432078/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/\" seamless=\"\"><a href=\"https://dcsalas.bandcamp.com/album/the-beautiful-feelings\">The Beautiful Feelings by DC Salas</a></iframe></div><p>&nbsp;</p><p>Exquisite Chaos (Slowciety)</p><div class=\"raw-html-embed\"><iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=1435013814/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/\" seamless=\"\"><a href=\"https://slowciety.bandcamp.com/album/exquisite-chaos-w-roman-flugel-remix\">Exquisite Chaos (w/ Roman Flugel Remix) by DC Salas</a></iframe></div><p>&nbsp;</p><p>The Complicated Art of Dreaming (Live at Robert Johnson)</p><div class=\"raw-html-embed\"><iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=969403606/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/\" seamless=\"\"><a href=\"https://dcsalas.bandcamp.com/album/the-complicated-art-of-dreaming-ep\">The Complicated Art of Dreaming EP by DC Salas</a></iframe></div><p>&nbsp;</p><p>Con una carrera en constante expansión y una visión artística profundamente conectada a su entorno, DC Salas no solo representa lo mejor de la electrónica belga, sino también una sensibilidad global en constante evolución.</p><p>Sigue su trabajo y prepárate para lo que viene: el viaje apenas comienza.</p>"
+        },
+        "relations": {
+          "category": "uld4pdpnp251vzpym23xxpuf"
+        }
+      },
+      {
+        "documentId": "unxwxgvo8i70gwl9l0ylasjq",
+        "locale": "en",
+        "publishedAt": "2026-06-04T20:05:26.747Z",
+        "fields": {
+          "title": "Susumu Yokota: El Maestro Polifacético del Ambient Japonés",
+          "slug": "susumu-yokota-el-maestro-polifacetico-del-ambient-japones",
+          "excerpt": "Susumu Yokota (横田進, 1961–2015) fue algo más que un músico de música electrónica: fue un polímata con formación en economía",
+          "description": "<h2>INTRODUCCIÓN: UN POLÍMATA DEL SONIDO</h2><p>Susumu Yokota (横田進, 1961–2015) fue algo más que un músico de música electrónica: fue un polímata con formación en economía que trabajó como diseñador gráfico antes de consagrarse como uno de los pioneros más visionarios del ambient japonés. Su legado prolífico abarca más de 30 álbumes entre 1993 y 2012, explorando desde acid techno hasta ambient meditativo.</p><p>Lo que hace único a Yokota no es solo su calidad musical, sino su estrategia de identidad múltiple: utilizó más de 11 alias diferentes para explorar distintos géneros sin comprometer su nombre principal. En este post exploraremos sus principales alter egos y cómo cada uno revela una faceta diferente de su genio creativo.</p><p>&nbsp;</p><p><img class=\"image_resized\" style=\"aspect-ratio:1600/900;width:50%;\" src=\"https://radiant-warmth-68ec252025.media.strapiapp.com/susumu_yokota_2_ab453a1a07.jpeg\" alt=\"susumu yokota - 2.jpeg\" width=\"1600\" height=\"900\"></p><h2>&nbsp;</h2><h2>EL ALIAS PRINCIPAL: SUSUMU YOKOTA (1994–2012)</h2><p><strong>Estilo:</strong> Ambient electrónico con sensibilidad clásica, piano orgánico, sintetizadores emotivos y atmósferas meditativas</p><p>Los álbumes bajo su nombre real representan el corazón de su obra:</p><ul><li><strong>Sakura (1999)</strong> — Elegido mejor álbum electrónico del año por The Wire</li><li><strong>Grinning Cat (2001)</strong> — Consolidación de su estilo meditativo</li><li><strong>Symbol (2004)</strong> — Exploración de sonidos más experimentales</li><li><strong>Kaleidoscope (2010)</strong> — Obra tardía con fines estéticos puros&nbsp;</li></ul><p><strong>Características sonoras:</strong></p><ul><li>Fusión única de sensibilidad clásica japonesa con sintetizadores modernos</li><li>Samples de piano entretejidos con sonidos repetitivos tipo Steve Reich</li><li>Emotividad contemplativa que evoca paisajes sonoros cinematográficos</li><li>Estética de la naturaleza: títulos como Sakura (cerezo en flor) reflejan la belleza efímera japonesa</li></ul><blockquote><p>\"Yokota emprendió una revolución intimista en el campo de la música electrónica\"&nbsp;</p></blockquote><h2>&nbsp;</h2><h2>EBI: EL LADO EXPERIMENTAL Y ÁCIDO (1993–1996)</h2><p><strong>Estilo:</strong> Acid techno, techno duro, sonidos experimentales con ritmos marcados</p><p>El alias Ebi revela a un Yokota más rudo y experimental, lejos de la contemplación del ambient principal:</p><ul><li><strong>Hi (1993)</strong> — Debut en acid techno</li><li><strong>Brainthump (1992, EP bajo Tenshin)</strong> — Techno alemán experimental temprana</li><li><strong>Zen (1994)</strong> — Acid techno puro</li><li><strong>Ten (1995)</strong> — Experimentación rítmica</li><li><strong>Liveacid (1994)</strong> — Grabaciones en vivo intensas</li></ul><p><strong>Diferencia clave:</strong> Mientras Susumu Yokota es contemplativo, Ebi es energético y agresivo, explorando las raíces del techno europeo de los años 90.</p><h2>&nbsp;</h2><h2>STEVIA: DOWNTIME Y TRIP-HOP ETÉREO (1995–1998)</h2><p><strong>Estilo:</strong> Downtempo, trip-hop, ambient suave con ritmos lentos y atmósferas etéreas</p><p>Bajo Stevia, Yokota exploró territorios más relajados, cercanos al trip-hop británico:</p><ul><li><strong>Fruit of the Room (1997)</strong> — Downtempo melódico</li><li><strong>Greenpeace (1998)</strong> — Ambient etéreo</li></ul><p><strong>Características:</strong> Ritmos más lentos, texturas suaves, influenciado por el trip-hop de Portishead y Massive Attack, pero con su sensibilidad japonesa única.</p><p>&nbsp;</p><h2>PRISM: TECNO Y TRANCE (1995–1997)</h2><p><strong>Estilo:</strong> Techno, trance, sonidos sintetizados y repetitivos más bailables</p><p>Prism es el alias más convencional en términos de música electrónica bailable:</p><ul><li><strong>Metronome Melody (1995)</strong> — Techno repetitivo</li><li><strong>Fallen Angel (1997)</strong> — Trance emocional</li></ul><p>A diferencia de su álbum Sakura, Prism es más orientado al club, con estructuras más predecibles y energía más alta.&nbsp;</p><h2>&nbsp;</h2><h2>ANIMA MUNDI: AMBIENT RÍTMICO Y HOUSE EXPERIMENTAL (1996)</h2><p><strong>Estilo:</strong> Ambient con beats presentes, house experimental</p><ul><li><strong>Anima Beat (1996)</strong> — Ambient con ritmo house</li><li><strong>Hebula (1996, EP)</strong> — Experimentación rítmica</li></ul><p>Anima Mundi ocupa un espacio intermedio: no es tan contemplativo como Susumu Yokota principal, pero tampoco tan agresivo como Ebi .</p><h2>&nbsp;</h2><h2>OTROS ALIASES MENORES</h2><p><strong>Ringo (1995)</strong> — Electrónica suave, ambient | Álbum: Plantation (1995)</p><p><strong>Tenshin (1992)</strong> — Techno alemán temprano | Álbum: Brainthump EP</p><p><strong>Frankfurt-Tokyo-Connection (1993)</strong> — Techno/house experimental | Álbum homónimo (colaboración)</p><p>&nbsp;</p><p><img class=\"image_resized\" style=\"aspect-ratio:1000/667;width:50%;\" src=\"https://radiant-warmth-68ec252025.media.strapiapp.com/susumu_yokota_4_7088484190.jpg\" alt=\"susumu yokota - 4.jpg\" width=\"1000\" height=\"667\"></p><p>&nbsp;</p><h2>¿POR QUÉ TANTAS IDENTIDADES?</h2><p>La estrategia de múltiples aliases de Yokota refleja:</p><ol><li><strong>Exploración artística sin restricciones:</strong> Cada alias era un lienzo diferente para experimentar sin comprometer la identidad principal</li><li><strong>Estrategia de sellos discográficos:</strong> Distintos sellos requerían diferentes nombres para diferentes géneros</li><li><strong>Personalidad polifacética:</strong> Yokota era economista, diseñador gráfico y músico—sus aliases reflejan esta diversidad</li><li><strong>Rechazo a fórmulas predecibles:</strong> Al cambiar de identidad, evitaba ser etiquetado en un solo género&nbsp;</li></ol><h2>&nbsp;</h2><h2>RECONOCIMIENTO Y LEGADO</h2><ul><li><strong>2025–2026:</strong> Nueva serie de reediciones en Bandcamp y Lo Recordings rescatan su legado</li><li><strong>Marzo 2026:</strong> Evento conmemorativo Skintone Edition en Los Ángeles con sesiones de escucha de Songs of Joy, Anger, Sorrow &amp; Happiness</li><li><strong>Reconocimiento póstumo:</strong> Común en Reddit y comunidades de ambient music: \"Gracias, Maestro Susumu Yokota\"&nbsp;</li></ul><blockquote><p>\"Un artista y verdadero pionero creativo única y generosamente dotado. Su legado prolífico abarca una extensa serie de releases 12\" pioneros\"&nbsp;</p></blockquote><h2>&nbsp;</h2><h2>CONCLUSIÓN: UN MAESTRO DEL SONIDO ÍNTIMO</h2><p>Susumu Yokota emprendió una revolución íntima del sonido. Sus más de 11 aliases no eran trucos de marketing, sino ventanas a diferentes dimensiones de su creatividad. Desde la contemplación de Sakura hasta la energía de Ebi, cada alias revela por qué Yokota sigue siendo un referente del ambient electrónico más allá de su muerte en 2015.</p><h2>&nbsp;</h2><h2>¿POR DÓNDE EMPEZAR A ESCUCHAR?</h2><p>Si eres nuevo en Yokota:</p><ul><li><strong>Para ambient puro:</strong> Sakura (1999) o Grinning Cat (2001)</li></ul><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/BHdF4rTVLWE?si=joncUTSMDTI9LrS6\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p>&nbsp;</p><ul><li><strong>Para techno experimental:</strong> Zen como Ebi (1994)</li></ul><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/td6yY7_zdE8?si=Rc3UfM1mSRsot3Dz\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p>&nbsp;</p><ul><li><strong>Para downtempo relajado:</strong> Fruit of the Room como Stevia (1997)</li></ul><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/dkcXLdErjMw?si=KTZ-5VwhgOe-sdyC\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p>&nbsp;</p><p>¿Te gustó este artículo sobre Susumu Yokota? Comparte con otros amantes del ambient electrónico y suscribe para más contenido sobre música electrónica experimental.</p>"
+        },
+        "relations": {
+          "category": "uld4pdpnp251vzpym23xxpuf"
+        }
+      },
+      {
+        "documentId": "tqryv1tjch05d3ve1hxathjg",
+        "locale": "en",
+        "publishedAt": "2026-06-12T01:45:04.981Z",
+        "fields": {
+          "title": "Dave Angel: UK Techno Legend",
+          "slug": "dave-angel-uk-techno-legend",
+          "excerpt": "Dave Angel (nacido David Angelico Nicholas Gooden, 13 de mayo de 1966, Chelsea, Londres) es una de las figuras más influyentes de la música electrónica británica. DJ Magazine lo llama \"una leyenda\" y Thump Magazine lo llama \"la leyenda de las leyendas\".",
+          "description": "<p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:block [&amp;_strong:has(+br)]:pb-2 [&amp;_strong:has(+br)+br]:hidden\"><strong>Dave Angel</strong> (nacido David Angelico Nicholas Gooden, 13 de mayo de 1966, Chelsea, Londres) es una de las figuras más influyentes de la música electrónica británica. DJ Magazine lo llama \"una leyenda\" y Thump Magazine lo llama \"la leyenda de las leyendas\".</p><h2>Mejores Momentos de su Carrera</h2><ul><li><strong>1988 : </strong>Gran salto en la radio pirata Phaze One durante la explosión del acid house</li><li><strong>1990s: </strong>Se convirtió en una fuerza principal del techno/acid house UK, promovido por Mixmag y DJ Magazine</li><li><strong>1995:</strong> Lanzó el álbum emblemático <i>Tales of the Unexpected</i></li><li><strong>1997: </strong><span style=\"color:hsl(0,0%,100%);font-family:pplxSans, ui-sans-serif, system-ui, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, &quot;Hiragino Sans&quot;, &quot;Yu Gothic&quot;, Meiryo, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, &quot;PingFang TC&quot;, &quot;Microsoft JhengHei&quot;, &quot;PingFang HK&quot;, &quot;Microsoft JhengHei&quot;, &quot;PingFang MO&quot;, &quot;Microsoft JhengHei&quot;, &quot;Apple SD Gothic Neo&quot;, &quot;Malgun Gothic&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;;font-size:14px;\"><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:430;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">Lanzó </span></span><span style=\"color:hsl(0,0%,100%);\"><i>Globetrotting</i></span><span style=\"color:hsl(0,0%,100%);font-family:pplxSans, ui-sans-serif, system-ui, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, &quot;Hiragino Sans&quot;, &quot;Yu Gothic&quot;, Meiryo, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, &quot;PingFang TC&quot;, &quot;Microsoft JhengHei&quot;, &quot;PingFang HK&quot;, &quot;Microsoft JhengHei&quot;, &quot;PingFang MO&quot;, &quot;Microsoft JhengHei&quot;, &quot;Apple SD Gothic Neo&quot;, &quot;Malgun Gothic&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;;font-size:14px;\"><i><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:430;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\">,</span></i><span style=\"-webkit-text-stroke-width:0px;display:inline !important;float:none;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:430;letter-spacing:normal;orphans:2;text-align:start;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;\"> mostrando innovación continua</span></span></li><li><p><strong>2023 - 2024: </strong>Aún activo con lanzamientos como \"Glide\" y <i>Quartz</i> (12 canciones)&nbsp;<br><br>&nbsp;</p><div class=\"raw-html-embed\">\n                                    <iframe width=\"100%\" height=\"450\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay; encrypted-media\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A9544683&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true\"></iframe>\n                                    \n                        \n            <div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\">\n                                                <a href=\"https://soundcloud.com/daveangel\" title=\"Dave Angel\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Dave Angel</a> · <a href=\"https://soundcloud.com/daveangel/sets/dj-mixes\" title=\"Mixes\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Mixes</a>\n                                            \n                            \n            </div>\n                                \n                    \n        </div></li></ul><p><img class=\"image_resized\" style=\"aspect-ratio:300/1000;width:50%;\" src=\"https://radiant-warmth-68ec252025.media.strapiapp.com/dave_4_c6047a3088.webp\" alt=\"dave - 4.webp\" width=\"300\" height=\"1000\"><br>Estilo Musical</p><ul><li><strong>Género:</strong> Techno estilo Detroit con influencias de jazz y soul</li><li><strong>Elementos clave: </strong>Ritmos potentes, líneas de bass profundas, sintes brillantes</li><li><strong>Fusión: </strong>House + Acid + Funk = sonido futurista y groovy</li></ul><h2>Álbumes y más</h2><h3>1. <strong>Tales of the Unexpected</strong> (1995)</h3><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:block [&amp;_strong:has(+br)]:pb-2 [&amp;_strong:has(+br)+br]:hidden\">Su álbum emblemático que define su sonido característico. Punto de inicio esencial para cualquier nuevo oyente.<br>&nbsp;</p><div class=\"raw-html-embed\">\n            <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/FAjxtFx4XxY?si=UlhNDTUMtlob5vik\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe>\n</div><h3>&nbsp;</h3><h3><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.discogs.com/master/19195-Dave-Angel-Globetrotting\">2. <strong>Globetrotting</strong> (1997)</a> - sigue el link</h3><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:block [&amp;_strong:has(+br)]:pb-2 [&amp;_strong:has(+br)+br]:hidden\">Muestra su evolución y sofisticación como productor mientras mantiene su estilo central.</p><h3><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.discogs.com/label/1023-Rotation-Records\">3. <strong>Singles de Techno de los 1990s</strong> (Rotation Records)</a> - sigue el link</h3><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:block [&amp;_strong:has(+br)]:pb-2 [&amp;_strong:has(+br)+br]:hidden\">Lanzó numerosos singles en su propia label Rotation Records, mostrando su consistencia como productor.</p><h3><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.discogs.com/master/960342-Dave-Angel-3rd-Voyage\">4. 3rd Voyage R&amp;S (1993)</a> - sigue el link</h3><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:block [&amp;_strong:has(+br)]:pb-2 [&amp;_strong:has(+br)+br]:hidden\">EP que captura el sonido híbrido de Angel: techno sumergido en soul, electrónicos jazzy y ritmos impulsados por la caja de ritmos 909. Jazz, funk y soul que exploran las posibilidades de la música electrónica.<br>&nbsp;</p><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:block [&amp;_strong:has(+br)]:pb-2 [&amp;_strong:has(+br)+br]:hidden\">Dave Angel permanece \"parte de la esencia misma de la escena techno UK\" con 20+ años de producción asombrosa. Desde la radio pirata en 1988 hasta su lanzamiento 2024 <i>Quartz</i>, aún innova.<br><br><img class=\"image_resized\" style=\"aspect-ratio:300/1080;width:50%;\" src=\"https://radiant-warmth-68ec252025.media.strapiapp.com/dave_5_6fc73799aa.webp\" alt=\"dave - 5.webp\" width=\"300\" height=\"1080\"></p>"
+        }
+      },
+      {
+        "documentId": "tw3r09sdd5ispj7su1gx2d7u",
+        "locale": "en",
+        "publishedAt": "2026-06-25T18:08:34.916Z",
+        "fields": {
+          "title": "Jeff Mills: el arquitecto del techno que convirtió el futuro en sonido",
+          "slug": "jeff-mills-el-arquitecto-del-techno-que-convirtio-el-futuro-en-sonido",
+          "excerpt": "Jeff Mills es una de las figuras más importantes en la historia del techno. Nacido en Detroit, ayudó a definir una manera de entender la música electrónica que une precisión...",
+          "description": "<p>Jeff Mills es una de las figuras más importantes en la historia del techno. Nacido en Detroit, ayudó a definir una manera de entender la música electrónica que une precisión, futurismo y una visión casi cinematográfica del sonido. Su obra no solo marcó la pista de baile: también abrió la puerta a una forma más conceptual y expansiva de pensar el techno.</p><p>Desde sus primeros pasos, Mills se distinguió por tratar el DJing y la producción como una práctica artística completa. Su vínculo con la escena de Detroit y con Underground Resistance fue decisivo para consolidar una estética intensa, minimalista y con fuerte carga cultural. Esa base le permitió construir una carrera que sigue siendo influyente décadas después.</p><h3>Los 3 álbumes esenciales de Jeff Mills</h3><p><strong>1. Waveform Transmission Vol. 1 (1992)</strong> Este es uno de los discos más importantes de toda su discografía. Mezcla techno brutalmente preciso, experimentación industrial y una energía hipnótica que ayudó a cambiar la dirección de la música de baile. Es el álbum que mejor resume la faceta más radical y visionaria de Mills.</p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/OGQBdEAo9RM?si=RbQAa_Tj7s6JuQs8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p><strong>Highlights:</strong> “Phase 4”, “DNA”, “Late Night”. Estos cortes muestran su capacidad para combinar presión rítmica, futurismo sonoro y una sensación de movimiento constante.</p><p><strong>2. Waveform Transmission Vol. 3 (1994)</strong> Si el primer volumen definió su lenguaje, el tercero lo llevó todavía más lejos. Aquí Mills refina su enfoque con un techno más atmosférico, espacial y profundamente influyente, especialmente para la escena de Berlín. Es una obra clave para entender cómo el techno puede ser a la vez físico y cerebral.</p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4J3VCo0ZF5E?si=JPjaIUyWAopLC_is\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p><strong>Highlights:</strong> “Solid Sleep”, “The Extremist”, “Condor to Mallorca”. Son piezas que condensan la esencia de su sonido: precisión mecánica, tensión narrativa y un pulso hipnótico imposible de ignorar.</p><p><strong>3. The Purpose Maker (1995)</strong> Este EP/álbum corto es una joya absoluta para la pista de baile. Construido con baterías secas, loops compactos y una energía directa, representa a Jeff Mills en su versión más funcional y más letal como DJ productor. Además, dio origen al sello Purpose Maker, una extensión natural de su visión artística.<br><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=QbJms6GMC9A\">&nbsp;Youtube link</a></p><p><strong>Highlights:</strong> “The Purpose Maker”, “Reverting”, “Casa”. Cada tema está diseñado para impactar sin exceso, con una arquitectura rítmica que ha influido a innumerables productores de techno.<br>&nbsp;</p><h3>Otros Albumes importantes</h3><p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.youtube.com/watch?v=6_7dmh-kY9k\"><strong>The Art of Connecting</strong>: otro álbum muy valorado dentro de sus mejores rankings.</a></p><p><strong>SIGHT SOUND AND SPACE</strong>: uno de los álbumes más escuchados recientemente en Last.fm, ideal para mostrar su vigencia.</p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/cKmuzhzMZlU?si=vmHB-_oWSjEVdmi3\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p><strong>Blue Potential - Live with Montpelier Philharmonic Orchestra</strong>: muestra su lado más ambicioso y orquestal.</p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/wFvF3TA4dxM?si=Gt_uky0yBHRvZ7K2\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><h3><br>Videos de Jeff</h3><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/eU-UsvYbIV0?si=NOTp_s8qmq5tjBu8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/wF3KPE74UB8?si=NfEZ2o1D9tRCU3AO\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><h3>Por qué sigue siendo relevante</h3><p>Jeff Mills sigue vigente porque nunca trató al techno como una fórmula cerrada. Su música explora ideas de espacio, tiempo, ciencia ficción y futuro, pero sin perder el vínculo con la energía de la pista. Esa mezcla de rigor, imaginación y visión artística es lo que lo mantiene en la conversación como uno de los grandes nombres del género.</p><p>Si quieres entender el techno en su forma más pura, más ambiciosa y más visionaria, Jeff Mills es una referencia obligatoria. Su legado no está solo en sus discos, sino en la manera en que expandió lo que la música electrónica podía significar.</p>"
+        },
+        "relations": {
+          "category": "uld4pdpnp251vzpym23xxpuf"
+        }
+      },
+      {
+        "documentId": "p48ytjao0sd543b5brx0edri",
+        "locale": "en",
+        "publishedAt": "2026-06-18T16:55:23.479Z",
+        "fields": {
+          "title": "Born Slippy y el Techno Inteligente: La Historia de Underworld",
+          "slug": "born-slippy-y-el-techno-inteligente-la-historia-de-underworld",
+          "excerpt": "En los primeros años de 1980, Rick Smith y Karl Hyde se conocieron en Cardiff, Gales, y formaron...",
+          "description": "<h2 class=\"font-editorial font-bold mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4\" id=\"de-freur-a-leyendas-del-techno-el-comienzo\"><strong>De Freur a Leyendas del Techno: El Comienzo</strong></h2><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top\">En los primeros años de 1980, Rick Smith y Karl Hyde se conocieron en Cardiff, Gales, y formaron <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.discogs.com/master/48834-Freur-Doot-Doot\"><strong>Freur</strong></a>, un grupo de new wave que lanzó el éxito Top 10 \"<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.discogs.com/master/48834-Freur-Doot-Doot\">Doot-Doot</a>\" en Italia (1983). Pero cuando Freur se disolvió a finales de los 80, no desaparecieron — se transformaron.</p><div class=\"raw-html-embed\">\n    <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/lzvLtBeXWDg?si=ClbYdaFpxdlx3DVU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe>\n</div><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top\">&nbsp;</p><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top\"><strong>1987</strong> marcó el nacimiento de <strong>Underworld Mark 1</strong>, su primera iteración como banda industrial-funk/electropop. Lanzaron dos álbumes (<i>Underneath the Radar</i> en 1988 y <i>Change the Weather</i> en 1989), pero por 1990, esta versión también había desaparecido.</p><div class=\"raw-html-embed\">\n    <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/9w-n0GrkF8E?si=ie9nlLZltNP6BXtX\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe>\n</div><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top\">&nbsp;</p><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top\">La mayoría de los artistas se habrían detenido ahí. Underworld no.</p><hr class=\"bg-quiet h-px border-0\"><h2 class=\"font-editorial font-bold mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4\" id=\"el-renacimiento-mark-2-y-la-revolucin-del-techno\"><strong>El Renacimiento: Mark 2 y la Revolución del Techno</strong></h2><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top\"><strong>1990</strong> fue el año en que todo cambió. Hyde y Smith se reunieron con un nuevo miembro — <strong>DJ Darren Emerson</strong> — y se reformaron como <strong>Underworld Mark 2</strong>. Este fue el verdadero comienzo.</p><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top\">Por <strong>1993</strong>, el trío estaba causando sensación con dos singles: <strong>\"Rez\"</strong> y <strong>\"MMM…Skyscraper I Love You\"</strong>. Estos no eran solo tracks — eran declaraciones de que algo nuevo estaba ocurriendo en la música electrónica.</p><div class=\"raw-html-embed\">\n    <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/hu8n2tMJJyY?si=TC3jiMO3WvFCptGd\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe>\n</div><div class=\"raw-html-embed\">\n    <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/A5sm-c7EIus?si=BbikbEiFd4gHpsQx\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe>\n</div><h2 class=\"font-editorial font-bold mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0\" id=\"el-lbum-rompedor-dubnobasswithmyheadman-1994\">&nbsp;</h2><h2 class=\"font-editorial font-bold mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0\" id=\"el-lbum-rompedor-dubnobasswithmyheadman-1994\"><strong>El Álbum Rompedor: dubnobasswithmyheadman (1994)</strong></h2><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top\">Su álbum debut de techno, <strong>\"dubnobasswithmyheadman\"</strong>, explotó en 1994. No era solo groundbreaking — era revolucionario. El álbum fusionó techno, trance, house, drum'n'bass, ambient y dub en algo que no existía antes. Las letras crípticas y de conciencia stream-of-Karl Hyde flotaban sobre patrones rítmicos complejos y beats de baile hipnóticos. Tracks como <strong>\"Dark &amp; Long (Dark Train)\"</strong> y <strong>\"Mmm Skyscraper I Love You\"</strong> definieron el sonido de una generación.</p><div class=\"raw-html-embed\">\n    <iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/HJEUwJ9lKlc?si=2tpxcRsue3DgOaSN\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe>\n</div><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top\">&nbsp;</p><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top\">Este álbum construyó su formidable reputación en vivo, y se conocieron por sus actuaciones dinámicas llenas de creatividad e improvisación.</p><hr class=\"bg-quiet h-px border-0\"><h2 class=\"font-editorial font-bold mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4\" id=\"el-momento-trainspotting-reconocimiento-global\"><strong>El Momento Trainspotting: Reconocimiento Global</strong></h2><p><img src=\"https://radiant-warmth-68ec252025.media.strapiapp.com/underworld_8_30f0bbc036.jpg\" alt=\"underworld - 8.jpg\" width=\"200\" height=\"700\"></p><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top\"><strong>1996</strong> entregó el momento que cementó Underworld en la cultura popular. Su track <strong>\"Born Slippy .NUXX\"</strong> apareció en la película <strong>Trainspotting</strong>, y todo cambió. La canción fue su mayor éxito, catapultándolos al éxito internacional y consolidando su lugar en la historia de la música.</p><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top\">Ese mismo año, lanzaron <strong>\"Second Toughest In The Infants\"</strong>, que muchos consideran uno de los mejores discos electrónicos de la historia del Reino Unido. El álbum fusionó progressive house, techno y ambient en una obra ambiciosa que ayudó a introducir los sonidos rave del UK a oídos estadounidenses.</p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/CkHdBf-8PZE?si=_DW6Dwe3GyVmnrjn\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top\">&nbsp;</p><h2 class=\"font-editorial font-bold mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0\" id=\"karl-hyde-el-poeta-del-techno\"><strong>Karl Hyde: El Poeta del Techno</strong></h2><ul class=\"marker:text-quiet list-disc pl-8\"><li class=\"py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0\"><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top\">Letras crípticas y de conciencia stream-of-consciousness</p></li><li class=\"py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0\"><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top\">Voces que parecían poesía hablada sobre tormentas electrónicas</p></li><li class=\"py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0\"><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top\">Una voz que era diferente a todo en el techno — como un Beat poeta perched atop el subwoofer</p><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top\"><img src=\"https://radiant-warmth-68ec252025.media.strapiapp.com/underworld_Karl_Hyde_Underworld_4_8dfbc8d90a.jpg\" alt=\"underworld Karl_Hyde_Underworld - 4.jpg\" width=\"539\" height=\"724\"></p></li></ul><h2 class=\"font-editorial font-bold mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0\" id=\"rick-smith-el-innovador-rtmico\"><strong>Rick Smith: El Innovador Rítmico</strong></h2><ul class=\"marker:text-quiet list-disc pl-8\"><li class=\"py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0\"><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top\">Patrones rítmicos complejos</p></li><li class=\"py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0\"><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top\">Síntesis progresiva de múltiples géneros</p></li><li class=\"py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0\"><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top\">Sonido electrónico orientado al rock (inusual para el género)</p></li><li class=\"py-0 my-0 prose-p:pt-0 prose-p:mb-2 prose-p:my-0 [&amp;&gt;p]:pt-0 [&amp;&gt;p]:mb-2 [&amp;&gt;p]:my-0\"><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top\">Guitarras que cascaban sobre máquinas de ritmo oscillantes</p></li></ul><p><img src=\"https://radiant-warmth-68ec252025.media.strapiapp.com/underworld_Rick_Smith_3_b9eb720c41.jpg\" alt=\"underworld Rick_Smith - 3.jpg\" width=\"1020\" height=\"714\"></p><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top\">&nbsp;</p><hr class=\"bg-quiet h-px border-0\"><h2 class=\"font-editorial font-bold mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4\" id=\"los-aos-de-pico-leyendas-de-festivales\"><strong>Los Años de Pico: Leyendas de Festivales</strong></h2><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top\"><strong>1999</strong> vio su álbum de mayor venta: <strong>\"Beaucoup Fish\"</strong>. Este fue éxito crossover — estaban jugando en escenarios principales de festivales alrededor del mundo, ya no eran solo actos electrónicos underground. Se habían convertido en uno de los actos electrónicos más reconocibles globalmente. Tracks como <strong>\"King of Snake\"</strong> y <strong>\"Push Upstairs\"</strong> eran anthem de festival.</p><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top\"><strong>2000</strong> marcó un cambio importante: Darren Emerson dejó el grupo, pero Hyde y Smith continuaron como dúo, demostrando que Underworld no era sobre una persona — era sobre la visión.</p><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top\"><strong>2001</strong>: Lanzaron <strong>\"Everything, Everything\"</strong> — un proyecto en vivo capturando sus performances en festivales, filmado en múltiples ciudades durante su tour mundial.</p><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top\"><strong>2002</strong>: <strong>\"A Hundred Days Off\"</strong> — críticas positivas, innovación continua.</p><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top\"><strong>2007</strong>: <strong>\"Oblivion with Bells\"</strong> — demostrando que aún tenían algo nuevo para decir.</p><hr class=\"bg-quiet h-px border-0\"><h2 class=\"font-editorial font-bold mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-lg first:mt-0 md:text-lg [hr+&amp;]:mt-4\" id=\"lbumes-completos-en-youtube\"><strong>Álbumes Completos en YouTube</strong></h2><h2 class=\"font-editorial font-bold mb-2 mt-4 [.has-inline-images_&amp;]:clear-end text-base first:mt-0\" id=\"lbumes-esenciales\"><strong>Álbumes Esenciales:</strong></h2><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top\"><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.discogs.com/master/43549-Underworld-Dubnobasswithmyheadman\"><strong>dubnobasswithmyheadman (1994)</strong></a></p><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top\"><strong>Second Touguest In The Infants (1996)</strong></p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/videoseries?si=c5OMnyu5slIZgcM8&amp;list=OLAK5uy_nKsZ4g6kJp_SCyLRR9PJsbVuFQ8XwIUdg\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top\">&nbsp;</p><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top\"><strong>Beaucoup Fish (1999)</strong></p><div class=\"raw-html-embed\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/videoseries?si=XdIow92pRQ0vi2-e&amp;list=PLfimnwaZdumgbIGjTynOq7ojZj7Vhf7bT\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></div><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top\"><strong>Everything, Everything (2001)</strong></p><div class=\"raw-html-embed\"><iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay; encrypted-media\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A31921172&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true\"></iframe><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/antonov1xy\" title=\"antonov1xy\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">antonov1xy</a> · <a href=\"https://soundcloud.com/antonov1xy/underworld-everything\" title=\"Underworld - Everything Everything(Full Album)\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Underworld - Everything Everything(Full Album)</a></div></div><hr class=\"bg-quiet h-px border-0\"><p>&nbsp;</p>"
+        },
+        "relations": {
+          "category": "uld4pdpnp251vzpym23xxpuf"
+        }
+      }
+    ],
+    "media-item": [
+      {
+        "documentId": "a9dj24ivxkdwbaea5y4t46fy",
+        "locale": "en",
+        "publishedAt": "2025-07-30T21:59:43.445Z",
+        "fields": {
+          "title": "Seekers Series 8 - Tommy Pickles"
+        }
+      },
+      {
+        "documentId": "aje6xi5sr9u0b86vytecl2mv",
+        "locale": "en",
+        "publishedAt": "2025-07-30T22:00:19.201Z",
+        "fields": {
+          "title": "Mulik & Maniac - Spacepegel [B]"
+        }
+      },
+      {
+        "documentId": "fnk9ihi9dmp1plzwcdmqtygd",
+        "locale": "en",
+        "publishedAt": "2025-07-30T22:00:43.125Z",
+        "fields": {
+          "title": " Decibolt - Kan't Be K"
+        }
+      },
+      {
+        "documentId": "l7vr195bcxu4izr9g18hcb8i",
+        "locale": "en",
+        "publishedAt": "2025-07-30T22:01:28.848Z",
+        "fields": {
+          "title": "Radio Pager Episode 58 - Klix"
+        }
+      },
+      {
+        "documentId": "kd72w3t0aeg902nivkp6xeds",
+        "locale": "en",
+        "publishedAt": "2025-07-30T22:01:52.944Z",
+        "fields": {
+          "title": "Levat - Re-Merge"
+        }
+      },
+      {
+        "documentId": "ljohvlijym2c2edowm5ezdfp",
+        "locale": "en",
+        "publishedAt": "2025-07-30T22:02:21.239Z",
+        "fields": {
+          "title": "Dan Goodall - Trippid"
+        }
+      },
+      {
+        "documentId": "onuqqjpzov43i4klal4jjusu",
+        "locale": "en",
+        "publishedAt": "2025-07-30T22:03:27.902Z",
+        "fields": {
+          "title": "Itemcast 037 Pierro"
+        }
+      },
+      {
+        "documentId": "ti4o04hz5j7f4agvg4ev9rzf",
+        "locale": "en",
+        "publishedAt": "2025-07-30T22:04:02.719Z",
+        "fields": {
+          "title": "Levat - Vai"
+        }
+      },
+      {
+        "documentId": "yhwqghf231nqlatifa80g2wt",
+        "locale": "en",
+        "publishedAt": "2025-07-30T22:04:32.014Z",
+        "fields": {
+          "title": " Candy Csonka & Chris Delay - Tropical Eden"
+        }
+      },
+      {
+        "documentId": "j4z1hpzbwfcucr666z8eso0l",
+        "locale": "en",
+        "publishedAt": "2025-07-30T22:05:37.643Z",
+        "fields": {
+          "title": "od:vod vol 6: Yela"
+        }
+      },
+      {
+        "documentId": "nh16x4b6brebcxhmrdk8wian",
+        "locale": "en",
+        "publishedAt": "2025-07-31T14:24:57.741Z",
+        "fields": {
+          "title": "Outsidecast 36 Tommy Pickles"
+        }
+      },
+      {
+        "documentId": "r821q1rlv7fj9az1j34ihdo4",
+        "locale": "en",
+        "publishedAt": "2025-07-31T14:33:45.585Z",
+        "fields": {
+          "title": "Can You Jigit? Archives 002 - Vera"
+        }
+      },
+      {
+        "documentId": "jwk0ot8ihk6d3evtxl8qevgw",
+        "locale": "en",
+        "publishedAt": "2025-07-31T17:20:43.101Z",
+        "fields": {
+          "title": "Spaced 34 | Mari.te"
+        }
+      },
+      {
+        "documentId": "qbkbwy15bk2yfojoc7y278s9",
+        "locale": "en",
+        "publishedAt": "2025-08-05T00:17:24.134Z",
+        "fields": {
+          "title": "Faciendo Soundsystem"
+        }
+      },
+      {
+        "documentId": "svqmcoo771b2elg1l3icu1u5",
+        "locale": "en",
+        "publishedAt": "2025-08-19T15:13:50.343Z",
+        "fields": {
+          "title": "How to dig deep and organise records with Gene on Earth"
+        }
+      },
+      {
+        "documentId": "rjbm70k5mfr5qagl230olik4",
+        "locale": "en",
+        "publishedAt": "2025-08-20T15:37:13.646Z",
+        "fields": {
+          "title": "Matias Puentes - Jam 22 [OCLT01] "
+        }
+      },
+      {
+        "documentId": "fx4dwcn3v8x5078yy1w0rtid",
+        "locale": "en",
+        "publishedAt": "2025-08-20T16:37:26.250Z",
+        "fields": {
+          "title": "Leinad - Voice Spectrum"
+        }
+      },
+      {
+        "documentId": "lzjkvzkfk6nm2gjvsenkubfi",
+        "locale": "en",
+        "publishedAt": "2025-08-29T21:39:51.423Z",
+        "fields": {
+          "title": "FreqCast 001 - Tommy Pickles live"
+        }
+      },
+      {
+        "documentId": "ip0dajwrh28nleirbggvwyxa",
+        "locale": "en",
+        "publishedAt": "2025-08-31T17:13:44.526Z",
+        "fields": {
+          "title": "LOWMONEYMUSICMIX - 45 - A:G"
+        }
+      },
+      {
+        "documentId": "qbeuqiiv4kwwanqf4jhswfrs",
+        "locale": "en",
+        "publishedAt": "2025-10-14T13:26:56.493Z",
+        "fields": {
+          "title": "FreqCast 002 - A:G"
+        }
+      }
+    ],
+    "home-hero": {
+      "documentId": "geqbvfa4nv0y7iexe01j1nxb",
+      "locale": "en",
+      "publishedAt": "2025-08-29T20:51:30.516Z",
+      "fields": {
+        "title": "Descubre la Escena Underground",
+        "copy": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Sumérgete en el mundo de la música electrónica más auténtica. Eventos íntimos, sonidos vanguardistas y experiencias que trascienden lo convencional en los mejores fiestas de la escena.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
