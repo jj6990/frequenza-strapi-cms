@@ -28,8 +28,21 @@ Reproducible Spanish → English localization pipeline for Strapi.
 
 5. **Transfer** seeded DB to production when ready:
    ```bash
-   yarn strapi transfer --to https://<your-strapi-cloud>/admin --force
+   # Prerequisites:
+   # - Strapi Cloud on 5.50.0 (yarn strapi login && yarn strapi link && yarn strapi deploy)
+   # - Admin → Settings → Internationalization: es (default) + en, fallback en → es
+   # - Fresh STRAPI_TRANSFER_TOKEN in .env (rotate if exposed)
+   # - Local DB seeded with yarn i18n:seed
+   yarn strapi transfer --to https://radiant-warmth-68ec252025.strapiapp.com/admin --force
    ```
+
+6. **Prod API smoke** (before deploying frqz-web):
+   ```bash
+   curl -s "$STRAPI_URL/api/home-hero?locale=es" | jq .data.title
+   curl -s "$STRAPI_URL/api/home-hero?locale=en" | jq .data.title
+   ```
+
+7. **Deploy frqz-web** only after prod CMS checks pass (Vercel auto-deploy from `main`).
 
 ## Env
 
