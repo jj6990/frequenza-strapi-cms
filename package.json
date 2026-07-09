@@ -13,6 +13,8 @@
     "i18n:scaffold-en": "node ./scripts/i18n/build-en-seed.js --scaffold",
     "i18n:seed": "node ./scripts/i18n/seed-localizations.js",
     "i18n:pipeline": "node ./scripts/i18n/export-content.js && node ./scripts/i18n/build-en-seed.js && node ./scripts/i18n/seed-localizations.js",
+    "transfer:pull": "node ./scripts/transfer-prod.js pull",
+    "transfer:push": "node ./scripts/transfer-prod.js push",
     "start": "strapi start",
     "strapi": "strapi"
   },
